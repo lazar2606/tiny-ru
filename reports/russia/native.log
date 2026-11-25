@@ -1,0 +1,12 @@
+{
+  "russia_familiar": {
+    "correct": 1000,
+    "total": 1000,
+    "accuracy": 1.0
+  },
+  "russia_unseen": {
+    "correct": 180,
+    "total": 200,
+    "accuracy": 0.9
+  }
+}

@@ -1,0 +1,8 @@
+test_bad_model_files (test_runtime.RuntimeTests) ... ok
+test_cr_only_and_mixed_line_endings (test_runtime.RuntimeTests) ... ok
+test_empty_long_and_all_cp866_bytes (test_runtime.RuntimeTests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.996s
+
+OK

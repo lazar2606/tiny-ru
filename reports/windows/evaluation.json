@@ -1,0 +1,7218 @@
+{
+  "total": 1200,
+  "weights_sha256": "222913b9b6f44642211c694ed188f988bfa7f106198889c55932b06abb808b55",
+  "examples": [
+    {
+      "question": "кто президент россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир путин."
+    },
+    {
+      "question": "какая столица россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "какой государственный язык в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "русский"
+    },
+    {
+      "question": "какая валюта в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рубль"
+    },
+    {
+      "question": "сколько копеек в рубле?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "100"
+    },
+    {
+      "question": "какая форма правления в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "республика"
+    },
+    {
+      "question": "кто является главой государства в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "президент"
+    },
+    {
+      "question": "как называется парламент россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "федеральное собрание"
+    },
+    {
+      "question": "какая нижняя палата парламента россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "государственная дума."
+    },
+    {
+      "question": "какая верхняя палата парламента россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "совет федерации."
+    },
+    {
+      "question": "сколько депутатов в государственной думе?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "450"
+    },
+    {
+      "question": "на сколько лет избирается президент россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "6"
+    },
+    {
+      "question": "с какого возраста можно стать президентом россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "35"
+    },
+    {
+      "question": "на сколько лет избирается госдума?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "5"
+    },
+    {
+      "question": "кто осуществляет исполнительную власть в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "правительство."
+    },
+    {
+      "question": "кто выпускает деньги в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "банк россии"
+    },
+    {
+      "question": "в каком году принята конституция россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1993"
+    },
+    {
+      "question": "кто носитель суверенитета в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "многонациональный народ"
+    },
+    {
+      "question": "каков возраст совершеннолетия в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "18."
+    },
+    {
+      "question": "когда отмечают день россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "12 июня"
+    },
+    {
+      "question": "когда день народного единства?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "4 ноября"
+    },
+    {
+      "question": "когда отмечают день победы в россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "9 мая."
+    },
+    {
+      "question": "когда праздник весны и труда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1 мая"
+    },
+    {
+      "question": "когда международный женский день?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "8 марта"
+    },
+    {
+      "question": "когда день защитника отечества?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "23 февраля"
+    },
+    {
+      "question": "какие цвета у флага россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "белый, синий, красный"
+    },
+    {
+      "question": "какая птица на гербе россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "двуглавый орёл."
+    },
+    {
+      "question": "кто написал музыку гимна россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр александров"
+    },
+    {
+      "question": "кто написал слова гимна россии?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сергей михалков."
+    },
+    {
+      "question": "кто первым полетел в космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "юрий гагарин"
+    },
+    {
+      "question": "в каком году гагарин полетел в космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1961."
+    },
+    {
+      "question": "когда гагарин полетел в космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "12 апреля 1961"
+    },
+    {
+      "question": "на каком корабле летал гагарин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "восток-1"
+    },
+    {
+      "question": "кто первая женщина в космосе?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "валентина терешкова"
+    },
+    {
+      "question": "в каком году терешкова полетела в космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1963"
+    },
+    {
+      "question": "на каком корабле летала терешкова?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "восток-6"
+    },
+    {
+      "question": "кто первым вышел в открытый космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "алексей леонов."
+    },
+    {
+      "question": "в каком году леонов вышел в открытый космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1965"
+    },
+    {
+      "question": "с какого корабля леонов вышел в открытый космос?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "восход-2."
+    },
+    {
+      "question": "какой центр у региона \"самарская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "самара"
+    },
+    {
+      "question": "на каком водоёме расположен город москва?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году основан город санкт-петербург?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1703"
+    },
+    {
+      "question": "куда впадает река волга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "каспийское море"
+    },
+    {
+      "question": "лев толстой: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1828"
+    },
+    {
+      "question": "кто написал \"горе от ума\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр грибоедов"
+    },
+    {
+      "question": "где находится музей \"гатчина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "гатчина"
+    },
+    {
+      "question": "какой центр у региона \"калининградская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "на каком водоёме расположен город санкт-петербург?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "финский залив"
+    },
+    {
+      "question": "в каком году основан город новосибирск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1893"
+    },
+    {
+      "question": "куда впадает река нева?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "невская губа."
+    },
+    {
+      "question": "лев толстой: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1910"
+    },
+    {
+      "question": "в каком году опубликовано \"горе от ума\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1825"
+    },
+    {
+      "question": "где находится \"кусково\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"мурманская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мурманск."
+    },
+    {
+      "question": "на каком водоёме расположен город новосибирск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иня"
+    },
+    {
+      "question": "в каком году основан город нижний новгород?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1221"
+    },
+    {
+      "question": "куда впадает река обь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "карское море"
+    },
+    {
+      "question": "место рождения: лев толстой?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ясная поляна"
+    },
+    {
+      "question": "кто написал \"протоколы сионских мудрецов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "матвей головинский."
+    },
+    {
+      "question": "где находится \"петропавловская крепость\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "петроградский район"
+    },
+    {
+      "question": "какой центр у региона \"архангельская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "архангельск"
+    },
+    {
+      "question": "на каком водоёме расположен город нижний новгород?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "почайна"
+    },
+    {
+      "question": "в каком году основан город самара?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1586"
+    },
+    {
+      "question": "куда впадает река дон?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "азовское море"
+    },
+    {
+      "question": "фёдор достоевский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1821"
+    },
+    {
+      "question": "в каком году опубликовано \"протоколы сионских мудрецов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1903"
+    },
+    {
+      "question": "где находится \"дачная столица\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сиверский"
+    },
+    {
+      "question": "какой центр у региона \"карелия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "петрозаводск"
+    },
+    {
+      "question": "на каком водоёме расположен город самара?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "самара"
+    },
+    {
+      "question": "в каком году основан город омск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1716"
+    },
+    {
+      "question": "куда впадает река вологда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сухона"
+    },
+    {
+      "question": "фёдор достоевский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1881."
+    },
+    {
+      "question": "кто написал \"один день ивана денисовича\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр солженицын"
+    },
+    {
+      "question": "где находится \"дом станционного смотрителя\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "выра"
+    },
+    {
+      "question": "какой центр у региона \"вологодская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вологда"
+    },
+    {
+      "question": "на каком водоёме расположен город омск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иртыш"
+    },
+    {
+      "question": "в каком году основан город казань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1005"
+    },
+    {
+      "question": "куда впадает река горин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "амур"
+    },
+    {
+      "question": "место рождения: фёдор достоевский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мариинская больница для бедных"
+    },
+    {
+      "question": "в каком году опубликовано \"один день ивана денисовича\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1962"
+    },
+    {
+      "question": "где находится \"домик няни а. с. пушкина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кобрино."
+    },
+    {
+      "question": "какой центр у региона \"республика коми\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сыктывкар"
+    },
+    {
+      "question": "на каком водоёме расположен город казань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город ростов-на-дону?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1749"
+    },
+    {
+      "question": "куда впадает река кур?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тунгуска"
+    },
+    {
+      "question": "александр пушкин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1799"
+    },
+    {
+      "question": "кто написал \"село степанчиково и его обитатели\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский"
+    },
+    {
+      "question": "где находится \"рождествено\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рождествено"
+    },
+    {
+      "question": "какой центр у региона \"ненецкий автономный округ\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нарьян-мар"
+    },
+    {
+      "question": "на каком водоёме расположен город ростов-на-дону?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "дон"
+    },
+    {
+      "question": "в каком году основан город уфа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1574"
+    },
+    {
+      "question": "куда впадает река преголя?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининградский залив"
+    },
+    {
+      "question": "александр пушкин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1837"
+    },
+    {
+      "question": "в каком году опубликовано \"село степанчиково и его обитатели\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1859"
+    },
+    {
+      "question": "где находится \"музей-усадьба п. е. щербова\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "гатчина"
+    },
+    {
+      "question": "какой центр у региона \"ленинградская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "гатчина."
+    },
+    {
+      "question": "на каком водоёме расположен город уфа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "белая"
+    },
+    {
+      "question": "в каком году основан город волгоград?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1589"
+    },
+    {
+      "question": "куда впадает река анграпа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "преголя"
+    },
+    {
+      "question": "место рождения: александр пушкин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "кто написал \"отцы и дети\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван тургенев"
+    },
+    {
+      "question": "где находится \"эрмитаж\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"псковская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "псков"
+    },
+    {
+      "question": "на каком водоёме расположен город волгоград?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город пермь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1723"
+    },
+    {
+      "question": "куда впадает река дейма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "куршский залив"
+    },
+    {
+      "question": "пётр ильич чайковский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1840"
+    },
+    {
+      "question": "в каком году опубликовано \"отцы и дети\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1862"
+    },
+    {
+      "question": "где находится \"царицыно\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "царицыно"
+    },
+    {
+      "question": "какой центр у региона \"новгородская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "великий новгород"
+    },
+    {
+      "question": "на каком водоёме расположен город пермь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кама"
+    },
+    {
+      "question": "в каком году основан город красноярск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1628"
+    },
+    {
+      "question": "куда впадает река инструч?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "преголя"
+    },
+    {
+      "question": "пётр ильич чайковский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1893"
+    },
+    {
+      "question": "кто написал \"горец\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "осип мандельштам"
+    },
+    {
+      "question": "где находится \"крейсер \"аврора\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "петроградский район"
+    },
+    {
+      "question": "какой центр у региона \"нижегородская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нижний новгород"
+    },
+    {
+      "question": "на каком водоёме расположен город красноярск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "енисей"
+    },
+    {
+      "question": "в каком году основан город томск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1604."
+    },
+    {
+      "question": "куда впадает река лава?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "преголя"
+    },
+    {
+      "question": "место рождения: пётр ильич чайковский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "городской округ воткинск"
+    },
+    {
+      "question": "в каком году опубликовано \"горец\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1933"
+    },
+    {
+      "question": "где находится \"государственная третьяковская галерея\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "центральный административный округ."
+    },
+    {
+      "question": "какой центр у региона \"тверская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тверь"
+    },
+    {
+      "question": "на каком водоёме расположен город томск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "томь"
+    },
+    {
+      "question": "в каком году основан город мурманск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1916"
+    },
+    {
+      "question": "куда впадает река неман?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "балтийское море"
+    },
+    {
+      "question": "максим горький: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1868"
+    },
+    {
+      "question": "кто написал \"евгений онегин\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр пушкин"
+    },
+    {
+      "question": "где находится \"центральный военно-морской музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"смоленская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "смоленск"
+    },
+    {
+      "question": "на каком водоёме расположен город калининград?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "преголя"
+    },
+    {
+      "question": "в каком году основан город калининград?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1255"
+    },
+    {
+      "question": "куда впадает река писса?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "анграпа."
+    },
+    {
+      "question": "максим горький: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1936"
+    },
+    {
+      "question": "в каком году опубликовано \"евгений онегин\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1825"
+    },
+    {
+      "question": "где находится \"центральный музей военно-воздушных сил рф\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "московская область"
+    },
+    {
+      "question": "какой центр у региона \"ярославская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ярославль."
+    },
+    {
+      "question": "на каком водоёме расположен город вологда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вологда"
+    },
+    {
+      "question": "в каком году основан город архангельск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1584"
+    },
+    {
+      "question": "куда впадает река шешупе?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "неман"
+    },
+    {
+      "question": "место рождения: максим горький?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нижний новгород"
+    },
+    {
+      "question": "кто написал \"как закалялась сталь\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай островский"
+    },
+    {
+      "question": "где находится \"центральный музей вооружённых сил\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"костромская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кострома"
+    },
+    {
+      "question": "на каком водоёме расположен город тотьма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сухона"
+    },
+    {
+      "question": "в каком году основан город вологда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1147"
+    },
+    {
+      "question": "куда впадает река амур?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "охотское море"
+    },
+    {
+      "question": "игорь стравинский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1882"
+    },
+    {
+      "question": "в каком году опубликовано \"как закалялась сталь\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1932"
+    },
+    {
+      "question": "где находится \"музей победы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"ивановская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иваново."
+    },
+    {
+      "question": "на каком водоёме расположен город нарьян-мар?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "печора"
+    },
+    {
+      "question": "в каком году основан город сыктывкар?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1780"
+    },
+    {
+      "question": "куда впадает река печора?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "печорское море"
+    },
+    {
+      "question": "игорь стравинский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1971"
+    },
+    {
+      "question": "кто написал \"тихий дон\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "михаил шолохов."
+    },
+    {
+      "question": "где находится \"русский музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"владимирская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир"
+    },
+    {
+      "question": "на каком водоёме расположен город великий новгород?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ильмень"
+    },
+    {
+      "question": "в каком году основан город нарьян-мар?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1931"
+    },
+    {
+      "question": "куда впадает река колва?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вишера."
+    },
+    {
+      "question": "место рождения: игорь стравинский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ломоносов."
+    },
+    {
+      "question": "в каком году опубликовано \"тихий дон\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1928"
+    },
+    {
+      "question": "где находится \"исаакиевский собор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"рязанская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рязань"
+    },
+    {
+      "question": "на каком водоёме расположен город тверь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город сызрань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1683"
+    },
+    {
+      "question": "куда впадает река северная двина?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "двинская губа."
+    },
+    {
+      "question": "александр солженицын: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1918"
+    },
+    {
+      "question": "кто написал \"первая книга\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "людвик лазарь заменгоф"
+    },
+    {
+      "question": "где находится \"государственный центр современного искусства\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "россия."
+    },
+    {
+      "question": "какой центр у региона \"тульская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тула"
+    },
+    {
+      "question": "на каком водоёме расположен город ярославль?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город тверь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1135"
+    },
+    {
+      "question": "куда впадает река западная двина?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рижский залив"
+    },
+    {
+      "question": "александр солженицын: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "2008"
+    },
+    {
+      "question": "в каком году опубликовано \"первая книга\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1887"
+    },
+    {
+      "question": "где находится \"гмз \"павловск\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "павловск"
+    },
+    {
+      "question": "какой центр у региона \"брянская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "брянск"
+    },
+    {
+      "question": "на каком водоёме расположен город брянск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "десна"
+    },
+    {
+      "question": "в каком году основан город ярославль?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1010"
+    },
+    {
+      "question": "куда впадает река пинега?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "северная двина"
+    },
+    {
+      "question": "место рождения: александр солженицын?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кисловодск"
+    },
+    {
+      "question": "в каком году опубликовано \"улитка на склоне\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1971"
+    },
+    {
+      "question": "где находится \"мемориальная синагога на поклонной горе\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"калужская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калуга"
+    },
+    {
+      "question": "на каком водоёме расположен город калуга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ока"
+    },
+    {
+      "question": "в каком году основан город кострома?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1152"
+    },
+    {
+      "question": "куда впадает река емца?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "северная двина"
+    },
+    {
+      "question": "владимир набоков: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1899"
+    },
+    {
+      "question": "кто написал \"мы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "евгений замятин."
+    },
+    {
+      "question": "где находится \"балаклавский подземный музейный комплекс\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "балаклава."
+    },
+    {
+      "question": "какой центр у региона \"орловская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "орёл."
+    },
+    {
+      "question": "на каком водоёме расположен город белгород?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "северский донец"
+    },
+    {
+      "question": "в каком году основан город рязань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1095"
+    },
+    {
+      "question": "куда впадает река луга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лужская губа"
+    },
+    {
+      "question": "владимир набоков: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1977"
+    },
+    {
+      "question": "в каком году опубликовано \"мы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1924"
+    },
+    {
+      "question": "где находится \"бронетанковый музей в кубинке\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кубинка"
+    },
+    {
+      "question": "какой центр у региона \"курская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "курск."
+    },
+    {
+      "question": "на каком водоёме расположен город астрахань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город калуга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1371"
+    },
+    {
+      "question": "куда впадает река оредеж?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "луга"
+    },
+    {
+      "question": "место рождения: владимир набоков?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"вконтакте\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "павел дуров"
+    },
+    {
+      "question": "где находится \"калининградский областной музей янтаря\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "какой центр у региона \"белгородская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "белгород"
+    },
+    {
+      "question": "на каком водоёме расположен город хабаровск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "амур"
+    },
+    {
+      "question": "в каком году основан город орёл?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1566"
+    },
+    {
+      "question": "куда впадает река волхов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "иван тургенев: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1818"
+    },
+    {
+      "question": "кто написал \"бедные люди\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский"
+    },
+    {
+      "question": "где находится \"мелихово\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мелихово."
+    },
+    {
+      "question": "какой центр у региона \"воронежская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "воронеж"
+    },
+    {
+      "question": "на каком водоёме расположен город саратов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город белгород?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1596"
+    },
+    {
+      "question": "куда впадает река великая?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "псковское озеро"
+    },
+    {
+      "question": "иван тургенев: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1883"
+    },
+    {
+      "question": "в каком году опубликовано \"бедные люди\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1846"
+    },
+    {
+      "question": "где находится \"королевские ворота\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "какой центр у региона \"липецкая область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "липецк"
+    },
+    {
+      "question": "на каком водоёме расположен город ульяновск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "свияга"
+    },
+    {
+      "question": "в каком году основан город воронеж?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1586"
+    },
+    {
+      "question": "куда впадает река витим?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лена"
+    },
+    {
+      "question": "место рождения: иван тургенев?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "орёл"
+    },
+    {
+      "question": "кто написал \"каменный гость\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр пушкин"
+    },
+    {
+      "question": "где находится \"государственный музей городской скульптуры\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"тамбовская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тамбов"
+    },
+    {
+      "question": "на каком водоёме расположен город ханты-мансийск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иртыш"
+    },
+    {
+      "question": "в каком году основан город липецк?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1703"
+    },
+    {
+      "question": "куда впадает река олёкма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лена"
+    },
+    {
+      "question": "михаил бакунин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1814"
+    },
+    {
+      "question": "кто написал \"царство божие внутри вас\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"малые корелы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "архангельская область"
+    },
+    {
+      "question": "какой центр у региона \"ростовская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ростов-на-дону."
+    },
+    {
+      "question": "на каком водоёме расположен город дальнегорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рудная"
+    },
+    {
+      "question": "в каком году основан город тамбов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1636"
+    },
+    {
+      "question": "куда впадает река подкаменная тунгуска?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "енисей"
+    },
+    {
+      "question": "михаил бакунин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1876"
+    },
+    {
+      "question": "кто написал \"накануне\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван тургенев."
+    },
+    {
+      "question": "где находится \"красноярский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "красноярск"
+    },
+    {
+      "question": "какой центр у региона \"краснодарский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "краснодар"
+    },
+    {
+      "question": "на каком водоёме расположен город судак?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чёрное море"
+    },
+    {
+      "question": "в каком году основан город астрахань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1558"
+    },
+    {
+      "question": "куда впадает река котуй?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "хатанга"
+    },
+    {
+      "question": "место рождения: михаил бакунин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "прямухино"
+    },
+    {
+      "question": "в каком году опубликовано \"накануне\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1860"
+    },
+    {
+      "question": "где находится \"коломенское\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нагатинский затон"
+    },
+    {
+      "question": "какой центр у региона \"адыгея\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "майкоп"
+    },
+    {
+      "question": "на каком водоёме расположен город приозерск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вуокса"
+    },
+    {
+      "question": "в каком году основан город элиста?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1865."
+    },
+    {
+      "question": "куда впадает река анадырь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "онемен"
+    },
+    {
+      "question": "борис пастернак: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1890"
+    },
+    {
+      "question": "кто написал \"капитанская дочка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр пушкин"
+    },
+    {
+      "question": "где находится \"литературный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "красноярск"
+    },
+    {
+      "question": "какой центр у региона \"волгоградская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волгоград"
+    },
+    {
+      "question": "на каком водоёме расположен город лодейное поле?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "свирь"
+    },
+    {
+      "question": "в каком году основан город хабаровск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1858"
+    },
+    {
+      "question": "куда впадает река нижняя тунгуска?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "енисей"
+    },
+    {
+      "question": "борис пастернак: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1960"
+    },
+    {
+      "question": "в каком году опубликовано \"капитанская дочка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1836"
+    },
+    {
+      "question": "где находится \"музей архитектуры имени а. в. щусева\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"астраханская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "астрахань"
+    },
+    {
+      "question": "на каком водоёме расположен город новая ладога?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "в каком году основан город грозный?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1818"
+    },
+    {
+      "question": "куда впадает река вилюй?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лена"
+    },
+    {
+      "question": "место рождения: борис пастернак?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "кто написал \"воскресение\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"ясная поляна\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ясная поляна."
+    },
+    {
+      "question": "какой центр у региона \"калмыкия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "элиста."
+    },
+    {
+      "question": "на каком водоёме расположен город подпорожье?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "свирь"
+    },
+    {
+      "question": "в каком году основан город ставрополь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1777"
+    },
+    {
+      "question": "куда впадает река аргунь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "амур"
+    },
+    {
+      "question": "михаил лермонтов: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1814"
+    },
+    {
+      "question": "в каком году опубликовано \"воскресение\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1899"
+    },
+    {
+      "question": "где находится \"астраханский кремль\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "астрахань"
+    },
+    {
+      "question": "какой центр у региона \"приморский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владивосток"
+    },
+    {
+      "question": "на каком водоёме расположен город сясьстрой?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "в каком году основан город магас?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1995"
+    },
+    {
+      "question": "куда впадает река оленёк?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "оленёкский залив"
+    },
+    {
+      "question": "михаил лермонтов: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1841"
+    },
+    {
+      "question": "кто написал \"анна каренина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"фридландские ворота\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "какой центр у региона \"дагестан\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "махачкала"
+    },
+    {
+      "question": "на каком водоёме расположен город отрадное?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нева"
+    },
+    {
+      "question": "в каком году основан город владикавказ?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1784"
+    },
+    {
+      "question": "куда впадает река малая нева?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "невская губа."
+    },
+    {
+      "question": "место рождения: михаил лермонтов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"анна каренина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1877"
+    },
+    {
+      "question": "где находится \"нарвские триумфальные ворота\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кировский район."
+    },
+    {
+      "question": "какой центр у региона \"чечня\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "грозный"
+    },
+    {
+      "question": "на каком водоёме расположен город шлиссельбург?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "в каком году основан город черкесск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1825."
+    },
+    {
+      "question": "куда впадает река большая нева?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "невская губа"
+    },
+    {
+      "question": "валерий леонтьев: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1949"
+    },
+    {
+      "question": "кто написал \"война и мир\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "в каком городе находился румянцевский музей в 1900 году?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"ставропольский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ставрополь"
+    },
+    {
+      "question": "на каком водоёме расположен город подольск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пахра"
+    },
+    {
+      "question": "в каком году основан город саратов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1590"
+    },
+    {
+      "question": "куда впадает река ашкадар?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "белая"
+    },
+    {
+      "question": "место рождения: валерий леонтьев?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "усть-уса"
+    },
+    {
+      "question": "в каком году опубликовано \"война и мир\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1869"
+    },
+    {
+      "question": "где находится \"меншиковский дворец\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "василеостровский район."
+    },
+    {
+      "question": "какой центр у региона \"ингушетия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "магас"
+    },
+    {
+      "question": "на каком водоёме расположен город евпатория?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чёрное море"
+    },
+    {
+      "question": "в каком году основан город оренбург?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1743"
+    },
+    {
+      "question": "куда впадает река зиган?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "белая"
+    },
+    {
+      "question": "айн рэнд: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1905"
+    },
+    {
+      "question": "кто написал \"преступление и наказание\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"музей холодной войны\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "таганский район"
+    },
+    {
+      "question": "какой центр у региона \"северная осетия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владикавказ."
+    },
+    {
+      "question": "на каком водоёме расположен город олонец?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "олонка"
+    },
+    {
+      "question": "в каком году основан город саранск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1641"
+    },
+    {
+      "question": "куда впадает река гюльгерычай?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "самур"
+    },
+    {
+      "question": "айн рэнд: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1982"
+    },
+    {
+      "question": "кто написал \"мать\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "максим горький"
+    },
+    {
+      "question": "где находится \"пушкинский дом\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "василеостровский район"
+    },
+    {
+      "question": "какой центр у региона \"кабардино-балкария\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нальчик"
+    },
+    {
+      "question": "на каком водоёме расположен город новокузнецк?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "томь."
+    },
+    {
+      "question": "в каком году основан город ижевск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1760"
+    },
+    {
+      "question": "куда впадает река днепр?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "днепровский лиман"
+    },
+    {
+      "question": "место рождения: айн рэнд?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году опубликовано \"мать\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1907"
+    },
+    {
+      "question": "где находится \"музей востока\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"карачаево-черкесия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "черкесск."
+    },
+    {
+      "question": "на каком водоёме расположен город набережные челны?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нижнекамское водохранилище"
+    },
+    {
+      "question": "в каком году основан город йошкар-ола?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1584"
+    },
+    {
+      "question": "куда впадает река бира?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "амур"
+    },
+    {
+      "question": "иван бунин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1870"
+    },
+    {
+      "question": "кто написал \"братья карамазовы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"российский этнографический музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"саратовская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "саратов"
+    },
+    {
+      "question": "на каком водоёме расположен город адыгейск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "краснодарское водохранилище"
+    },
+    {
+      "question": "в каком году основан город чебоксары?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1469"
+    },
+    {
+      "question": "куда впадает река лена?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "море лаптевых"
+    },
+    {
+      "question": "иван бунин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1953"
+    },
+    {
+      "question": "в каком году опубликовано \"братья карамазовы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1880"
+    },
+    {
+      "question": "где находится \"дом набокова\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"оренбургская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "оренбург"
+    },
+    {
+      "question": "на каком водоёме расположен город агрыз?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "агрызка"
+    },
+    {
+      "question": "в каком году основан город пенза?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1663."
+    },
+    {
+      "question": "куда впадает река стерля?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ашкадар"
+    },
+    {
+      "question": "место рождения: иван бунин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "воронеж"
+    },
+    {
+      "question": "кто написал \"мастер и маргарита\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "михаил булгаков"
+    },
+    {
+      "question": "где находится \"государственный дарвиновский музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"мордовия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "саранск"
+    },
+    {
+      "question": "на каком водоёме расположен город азов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "дон"
+    },
+    {
+      "question": "в каком году основан город зеленоградск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1252"
+    },
+    {
+      "question": "куда впадает река олонка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "иосиф бродский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1940"
+    },
+    {
+      "question": "кто написал \"доктор живаго\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "борис пастернак"
+    },
+    {
+      "question": "где находится \"государственный исторический музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тверской район"
+    },
+    {
+      "question": "какой центр у региона \"кировская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "киров"
+    },
+    {
+      "question": "на каком водоёме расположен город алатырь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сура"
+    },
+    {
+      "question": "в каком году основан город ульяновск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1648"
+    },
+    {
+      "question": "куда впадает река ижора?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нева"
+    },
+    {
+      "question": "иосиф бродский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1996"
+    },
+    {
+      "question": "в каком году опубликовано \"доктор живаго\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1957"
+    },
+    {
+      "question": "где находится \"храм всех религий\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "казань"
+    },
+    {
+      "question": "какой центр у региона \"пермский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пермь."
+    },
+    {
+      "question": "на каком водоёме расположен город бавлы?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "бавлы"
+    },
+    {
+      "question": "в каком году основан город черняховск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1336"
+    },
+    {
+      "question": "куда впадает река кременка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "оредеж"
+    },
+    {
+      "question": "место рождения: иосиф бродский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"идиот\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"мемориальный дом-музей м. богдановича\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ярославль"
+    },
+    {
+      "question": "какой центр у региона \"удмуртия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ижевск"
+    },
+    {
+      "question": "на каком водоёме расположен город белая калитва?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калитва"
+    },
+    {
+      "question": "в каком году основан город балтийск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1626"
+    },
+    {
+      "question": "куда впадает река славянка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нева."
+    },
+    {
+      "question": "пётр кропоткин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1842."
+    },
+    {
+      "question": "в каком году опубликовано \"идиот\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1869"
+    },
+    {
+      "question": "где находится \"крепость фридрихсбург\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "какой центр у региона \"марий эл\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "йошкар-ола"
+    },
+    {
+      "question": "на каком водоёме расположен город белёв?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ока"
+    },
+    {
+      "question": "в каком году основан город гусев?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1501"
+    },
+    {
+      "question": "куда впадает река ульвож?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "верхний двойник"
+    },
+    {
+      "question": "пётр кропоткин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1921"
+    },
+    {
+      "question": "в каком году опубликовано \"трудно быть богом\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1964."
+    },
+    {
+      "question": "где находится \"панорама \"оборона севастополя\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ленинский район"
+    },
+    {
+      "question": "какой центр у региона \"свердловская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "екатеринбург"
+    },
+    {
+      "question": "на каком водоёме расположен город белово?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "большой бачат."
+    },
+    {
+      "question": "в каком году основан город светлый?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1640."
+    },
+    {
+      "question": "куда впадает река тихвинка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сясь"
+    },
+    {
+      "question": "место рождения: пётр кропоткин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"волны гасят ветер\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1987"
+    },
+    {
+      "question": "где находится \"с-56\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владивосток"
+    },
+    {
+      "question": "какой центр у региона \"чувашия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чебоксары"
+    },
+    {
+      "question": "на каком водоёме расположен город беломорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "онежская губа"
+    },
+    {
+      "question": "в каком году основан город гвардейск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1255"
+    },
+    {
+      "question": "куда впадает река сясь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "михаил шолохов: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1905"
+    },
+    {
+      "question": "кто написал \"игрок\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"кунсткамера\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "василеостровский район"
+    },
+    {
+      "question": "какой центр у региона \"татарстан\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "казань"
+    },
+    {
+      "question": "на каком водоёме расположен город березники?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кама"
+    },
+    {
+      "question": "в каком году основан город неман?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1277"
+    },
+    {
+      "question": "куда впадает река вёревка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ижора"
+    },
+    {
+      "question": "михаил шолохов: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1984"
+    },
+    {
+      "question": "в каком году опубликовано \"игрок\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1867"
+    },
+    {
+      "question": "где находится \"музей электрического транспорта санкт-петербурга\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"пензенская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пенза."
+    },
+    {
+      "question": "на каком водоёме расположен город бикин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "бикин"
+    },
+    {
+      "question": "в каком году основан город барнаул?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1730"
+    },
+    {
+      "question": "куда впадает река онза?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "оредеж"
+    },
+    {
+      "question": "место рождения: михаил шолохов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кружилинский"
+    },
+    {
+      "question": "в каком году опубликовано \"двенадцать стульев\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1928"
+    },
+    {
+      "question": "где находится \"оружейная палата\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тверской район"
+    },
+    {
+      "question": "какой центр у региона \"ульяновская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ульяновск"
+    },
+    {
+      "question": "на каком водоёме расположен город бирюч?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тихая сосна"
+    },
+    {
+      "question": "в каком году основан город горно-алтайск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1830"
+    },
+    {
+      "question": "куда впадает река стрелка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "финский залив"
+    },
+    {
+      "question": "владимир высоцкий: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1938"
+    },
+    {
+      "question": "в каком году опубликовано \"гадкие лебеди\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1968"
+    },
+    {
+      "question": "где находится \"палеонтологический музей им. ю. а. орлова\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"башкортостан\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "уфа"
+    },
+    {
+      "question": "на каком водоёме расположен город большой камень?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "уссурийский залив"
+    },
+    {
+      "question": "в каком году основан город кызыл?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1914"
+    },
+    {
+      "question": "куда впадает река суйда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "оредеж"
+    },
+    {
+      "question": "владимир высоцкий: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1980"
+    },
+    {
+      "question": "кто написал \"петербургские повести\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"политехнический музей в москве\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тверской район"
+    },
+    {
+      "question": "какой центр у региона \"челябинская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "челябинск"
+    },
+    {
+      "question": "на каком водоёме расположен город бор?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город ханты-мансийск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1931"
+    },
+    {
+      "question": "куда впадает река туманная?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "японское море"
+    },
+    {
+      "question": "место рождения: владимир высоцкий?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"петербургские повести\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1843."
+    },
+    {
+      "question": "где находится \"музей сновидений фрейда\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"курганская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "курган"
+    },
+    {
+      "question": "на каком водоёме расположен город ялта?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "водопадная"
+    },
+    {
+      "question": "в каком году основан город салехард?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1595"
+    },
+    {
+      "question": "куда впадает река устья?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вага"
+    },
+    {
+      "question": "сергей есенин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1895"
+    },
+    {
+      "question": "кто написал \"вечера на хуторе близ диканьки\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"царское село\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пушкин"
+    },
+    {
+      "question": "какой центр у региона \"тюменская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тюмень."
+    },
+    {
+      "question": "на каком водоёме расположен город верхотурье?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тура"
+    },
+    {
+      "question": "в каком году основан город улан-удэ?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1666"
+    },
+    {
+      "question": "куда впадает река лебедь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "бия"
+    },
+    {
+      "question": "сергей есенин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1925"
+    },
+    {
+      "question": "в каком году опубликовано \"вечера на хуторе близ диканьки\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1830"
+    },
+    {
+      "question": "где находится \"музей космонавтики\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"омская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "омск"
+    },
+    {
+      "question": "на каком водоёме расположен город галич?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "галичское озеро"
+    },
+    {
+      "question": "в каком году основан город дальнегорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1897"
+    },
+    {
+      "question": "куда впадает река лежа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сухона"
+    },
+    {
+      "question": "место рождения: сергей есенин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "константиново"
+    },
+    {
+      "question": "кто написал \"тимур и его команда\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "аркадий гайдар"
+    },
+    {
+      "question": "где находится \"музей железных дорог россии\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"новосибирская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "новосибирск"
+    },
+    {
+      "question": "на каком водоёме расположен город добрянка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кама"
+    },
+    {
+      "question": "в каком году основан город биробиджан?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1915"
+    },
+    {
+      "question": "куда впадает река вычегда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "северная двина"
+    },
+    {
+      "question": "михаил ломоносов: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1711"
+    },
+    {
+      "question": "в каком году опубликовано \"тимур и его команда\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1940"
+    },
+    {
+      "question": "где находится \"дом-музей п. д. корина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "хамовники"
+    },
+    {
+      "question": "какой центр у региона \"томская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "томск"
+    },
+    {
+      "question": "на каком водоёме расположен город дорогобуж?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "днепр"
+    },
+    {
+      "question": "в каком году основан город южно-сахалинск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1882"
+    },
+    {
+      "question": "куда впадает река сакмара?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "урал"
+    },
+    {
+      "question": "михаил ломоносов: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1765"
+    },
+    {
+      "question": "кто написал \"бесы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"космонавт виктор пацаев\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "какой центр у региона \"алтайский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "барнаул"
+    },
+    {
+      "question": "на каком водоёме расположен город дубна?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город петропавловск-камчатский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1740"
+    },
+    {
+      "question": "куда впадает река большой ик?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сакмара"
+    },
+    {
+      "question": "место рождения: михаил ломоносов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мишанинская"
+    },
+    {
+      "question": "кто написал \"архипелаг гулаг\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр солженицын"
+    },
+    {
+      "question": "где находится \"крутицкое подворье\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"республика алтай\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "горно-алтайск"
+    },
+    {
+      "question": "на каком водоёме расположен город ейск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "таганрогский залив"
+    },
+    {
+      "question": "в каком году основан город магадан?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1929"
+    },
+    {
+      "question": "куда впадает река чир?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "дон"
+    },
+    {
+      "question": "алла пугачёва: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1949"
+    },
+    {
+      "question": "в каком году опубликовано \"архипелаг гулаг\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1973"
+    },
+    {
+      "question": "где находится \"манеж\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тверской район"
+    },
+    {
+      "question": "какой центр у региона \"кемеровская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кемерово"
+    },
+    {
+      "question": "на каком водоёме расположен город елабуга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кама"
+    },
+    {
+      "question": "в каком году основан город анадырь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1889"
+    },
+    {
+      "question": "куда впадает река селенга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "байкал"
+    },
+    {
+      "question": "место рождения: алла пугачёва?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "кто написал \"маленький герой\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский"
+    },
+    {
+      "question": "где находится \"археопарк\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ханты-мансийск"
+    },
+    {
+      "question": "какой центр у региона \"ханты-мансийский автономный округ - югра\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ханты-мансийск."
+    },
+    {
+      "question": "на каком водоёме расположен город заинск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "зай"
+    },
+    {
+      "question": "в каком году основан город курган?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1679"
+    },
+    {
+      "question": "куда впадает река енисей?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "енисейский залив"
+    },
+    {
+      "question": "дмитрий шостакович: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1906"
+    },
+    {
+      "question": "в каком году опубликовано \"маленький герой\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1857"
+    },
+    {
+      "question": "где находится \"музей дипломатического корпуса\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вологда"
+    },
+    {
+      "question": "какой центр у региона \"ямало-ненецкий автономный округ\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "салехард."
+    },
+    {
+      "question": "на каком водоёме расположен город зеленодольск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город выборг?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1293"
+    },
+    {
+      "question": "куда впадает река яна?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "янский залив"
+    },
+    {
+      "question": "дмитрий шостакович: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1975"
+    },
+    {
+      "question": "кто написал \"час быка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван ефремов"
+    },
+    {
+      "question": "где находится \"музей москвы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"хакасия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "абакан"
+    },
+    {
+      "question": "на каком водоёме расположен город калач?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "толучеевка"
+    },
+    {
+      "question": "в каком году основан город пикалёво?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1927"
+    },
+    {
+      "question": "куда впадает река колыма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "восточно-сибирское море"
+    },
+    {
+      "question": "место рождения: дмитрий шостакович?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году опубликовано \"час быка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1970"
+    },
+    {
+      "question": "где находится \"таганрогский художественный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "таганрог."
+    },
+    {
+      "question": "какой центр у региона \"красноярский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "красноярск"
+    },
+    {
+      "question": "на каком водоёме расположен город кандалакша?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кандалакшский залив"
+    },
+    {
+      "question": "в каком году основан город бокситогорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1929"
+    },
+    {
+      "question": "куда впадает река онега?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "онежская губа"
+    },
+    {
+      "question": "александр блок: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1880"
+    },
+    {
+      "question": "кто написал \"клоп\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир маяковский"
+    },
+    {
+      "question": "где находится \"зоологический музей зоологического института ран\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"иркутская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иркутск."
+    },
+    {
+      "question": "на каком водоёме расположен город каспийск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "каспийское море"
+    },
+    {
+      "question": "в каком году основан город волхов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1918"
+    },
+    {
+      "question": "куда впадает река кама?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "александр блок: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1921"
+    },
+    {
+      "question": "в каком году опубликовано \"клоп\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1929"
+    },
+    {
+      "question": "где находится \"тарханы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лермонтово"
+    },
+    {
+      "question": "какой центр у региона \"якутия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "якутск"
+    },
+    {
+      "question": "на каком водоёме расположен город кашира?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ока"
+    },
+    {
+      "question": "в каком году основан город всеволожск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1892"
+    },
+    {
+      "question": "куда впадает река мезень?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мезенская губа."
+    },
+    {
+      "question": "место рождения: александр блок?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"конёк-горбунок\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пётр ершов"
+    },
+    {
+      "question": "где находится \"бородинская панорама\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"бурятия\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "улан-удэ"
+    },
+    {
+      "question": "на каком водоёме расположен город кимры?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "в каком году основан город ивангород?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1492"
+    },
+    {
+      "question": "куда впадает река урал?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "каспийское море"
+    },
+    {
+      "question": "константин циолковский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1857"
+    },
+    {
+      "question": "в каком году опубликовано \"конёк-горбунок\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1834"
+    },
+    {
+      "question": "где находится \"музей анны ахматовой в фонтанном доме\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "какой центр у региона \"забайкальский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чита."
+    },
+    {
+      "question": "на каком водоёме расположен город кисловодск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "берёзовая"
+    },
+    {
+      "question": "в каком году основан город кингисеппское городское поселение?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1384."
+    },
+    {
+      "question": "куда впадает река куимтышор?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "левая хетта"
+    },
+    {
+      "question": "константин циолковский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1935"
+    },
+    {
+      "question": "кто написал \"душечка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"пермь-36\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чусовской муниципальный округ"
+    },
+    {
+      "question": "какой центр у региона \"амурская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "благовещенск"
+    },
+    {
+      "question": "на каком водоёме расположен город корсаков?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "анива."
+    },
+    {
+      "question": "в каком году основан город кировск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1931"
+    },
+    {
+      "question": "куда впадает река надым?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "карское море"
+    },
+    {
+      "question": "место рождения: константин циолковский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ижевское."
+    },
+    {
+      "question": "в каком году опубликовано \"душечка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1899"
+    },
+    {
+      "question": "где находится \"шёлтозерский вепсский этнографический музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "шёлтозеро"
+    },
+    {
+      "question": "какой центр у региона \"еврейская автономная область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "биробиджан."
+    },
+    {
+      "question": "на каком водоёме расположен город красногорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "банька"
+    },
+    {
+      "question": "в каком году основан город лодейное поле?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1702"
+    },
+    {
+      "question": "куда впадает река пур?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тазовская губа"
+    },
+    {
+      "question": "василий кандинский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1866"
+    },
+    {
+      "question": "кто написал \"пари\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"мемориальный комплекс \"катынь\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "катынь"
+    },
+    {
+      "question": "какой центр у региона \"хабаровский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "хабаровск"
+    },
+    {
+      "question": "на каком водоёме расположен город краснокамск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кама"
+    },
+    {
+      "question": "в каком году основан город никольское?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1710"
+    },
+    {
+      "question": "куда впадает река таз?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "карское море"
+    },
+    {
+      "question": "василий кандинский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1944."
+    },
+    {
+      "question": "в каком году опубликовано \"пари\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1889"
+    },
+    {
+      "question": "где находится \"сахаровский центр\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"сахалинская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "южно-сахалинск"
+    },
+    {
+      "question": "на каком водоёме расположен город куйбышев?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "омь."
+    },
+    {
+      "question": "в каком году основан город новая ладога?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1704"
+    },
+    {
+      "question": "куда впадает река пясина?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пясинский залив"
+    },
+    {
+      "question": "место рождения: василий кандинский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "кто написал \"смерть ивана ильича\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"смольный собор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "центральный район"
+    },
+    {
+      "question": "какой центр у региона \"камчатский край\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "петропавловск-камчатский"
+    },
+    {
+      "question": "на каком водоёме расположен город курильск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "курилка"
+    },
+    {
+      "question": "в каком году основан город подпорожье?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1936"
+    },
+    {
+      "question": "куда впадает река нижняя таймыра?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "таймырский залив"
+    },
+    {
+      "question": "николай лобачевский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1792"
+    },
+    {
+      "question": "в каком году опубликовано \"смерть ивана ильича\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1886."
+    },
+    {
+      "question": "где находится \"монумент \"покорителям космоса\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "останкинский район"
+    },
+    {
+      "question": "какой центр у региона \"магаданская область\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "магадан"
+    },
+    {
+      "question": "на каком водоёме расположен город лесозаводск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "уссури"
+    },
+    {
+      "question": "в каком году основан город светогорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1887."
+    },
+    {
+      "question": "куда впадает река хатанга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "хатангский залив"
+    },
+    {
+      "question": "николай лобачевский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1856"
+    },
+    {
+      "question": "в каком году опубликовано \"фсб взрывает россию\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "2002"
+    },
+    {
+      "question": "где находится \"музей солнца\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "советский район"
+    },
+    {
+      "question": "какой центр у региона \"чукотский автономный округ\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "анадырь"
+    },
+    {
+      "question": "на каком водоёме расположен город феодосия?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чёрное море"
+    },
+    {
+      "question": "в каком году основан город сертолово?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1936"
+    },
+    {
+      "question": "куда впадает река анабар?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "море лаптевых"
+    },
+    {
+      "question": "место рождения: николай лобачевский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нижний новгород"
+    },
+    {
+      "question": "кто написал \"шинель\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"поклонная гора\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "какой центр у региона \"тыва\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кызыл"
+    },
+    {
+      "question": "на каком водоёме расположен город мезень?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мезень."
+    },
+    {
+      "question": "в каком году основан город сланцы?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1934"
+    },
+    {
+      "question": "куда впадает река индигирка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "восточно-сибирское море"
+    },
+    {
+      "question": "марина цветаева: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1892"
+    },
+    {
+      "question": "в каком году опубликовано \"шинель\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1842"
+    },
+    {
+      "question": "где находится \"тальцы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тальцы"
+    },
+    {
+      "question": "в каком году основан город сясьстрой?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1927"
+    },
+    {
+      "question": "куда впадает река алазея?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "восточно-сибирское море"
+    },
+    {
+      "question": "марина цветаева: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1941"
+    },
+    {
+      "question": "кто написал \"основы эсперанто\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "людвик лазарь заменгоф"
+    },
+    {
+      "question": "где находится \"музей людвига в русском музее\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город луга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1777"
+    },
+    {
+      "question": "куда впадает река кубань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "азовское море"
+    },
+    {
+      "question": "место рождения: марина цветаева?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"основы эсперанто\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1905"
+    },
+    {
+      "question": "где находится \"дом чехова\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ялта"
+    },
+    {
+      "question": "в каком году основан город отрадное?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1708"
+    },
+    {
+      "question": "куда впадает река терек?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "каспийское море"
+    },
+    {
+      "question": "николай римский-корсаков: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1844"
+    },
+    {
+      "question": "кто написал \"невский проспект\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь."
+    },
+    {
+      "question": "где находится \"музей-усадьба с.в. рахманинова\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ивановка"
+    },
+    {
+      "question": "в каком году основан город сосновый бор?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1958"
+    },
+    {
+      "question": "куда впадает река сухона?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "северная двина."
+    },
+    {
+      "question": "николай римский-корсаков: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1908"
+    },
+    {
+      "question": "в каком году опубликовано \"невский проспект\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1835"
+    },
+    {
+      "question": "где находится \"воронцовский дворец\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "алупка"
+    },
+    {
+      "question": "в каком году основан город тихвин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1383"
+    },
+    {
+      "question": "куда впадает река тавда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тобол"
+    },
+    {
+      "question": "место рождения: николай римский-корсаков?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тихвин."
+    },
+    {
+      "question": "кто написал \"ревизор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"парк искусств \"музеон\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "в каком году основан город тосно?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1500"
+    },
+    {
+      "question": "куда впадает река белоколодец?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "воронеж"
+    },
+    {
+      "question": "сергей рахманинов: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1873"
+    },
+    {
+      "question": "в каком году опубликовано \"ревизор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1836"
+    },
+    {
+      "question": "где находится \"шахматово\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "московская область"
+    },
+    {
+      "question": "в каком году основан город шлиссельбург?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1323"
+    },
+    {
+      "question": "куда впадает река шумика?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "сергей рахманинов: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1943"
+    },
+    {
+      "question": "кто написал \"три сестры\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"вязёмы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "большие вязёмы"
+    },
+    {
+      "question": "в каком году основан город суздаль?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1024"
+    },
+    {
+      "question": "куда впадает река ира?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "место рождения: сергей рахманинов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "семёново"
+    },
+    {
+      "question": "в каком году опубликовано \"три сестры\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1901"
+    },
+    {
+      "question": "где находится \"госфильмофонд\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "домодедово"
+    },
+    {
+      "question": "в каком году основан город анапа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1781"
+    },
+    {
+      "question": "куда впадает река большая грибань?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "александр бородин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1833"
+    },
+    {
+      "question": "кто написал \"вишнёвый сад\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"особняк кшесинской\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "петроградский район"
+    },
+    {
+      "question": "в каком году основан город темрюк?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1556"
+    },
+    {
+      "question": "куда впадает река ача?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нёмда"
+    },
+    {
+      "question": "александр бородин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1887."
+    },
+    {
+      "question": "в каком году опубликовано \"вишнёвый сад\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1904"
+    },
+    {
+      "question": "где находится \"конногвардейский манеж\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город новороссийск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1838"
+    },
+    {
+      "question": "куда впадает река шоменка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "парат."
+    },
+    {
+      "question": "место рождения: александр бородин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"государство и революция\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир ильич ленин."
+    },
+    {
+      "question": "где находится \"музей ркк \"энергия\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "королёв"
+    },
+    {
+      "question": "в каком году основан город апшеронск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1863"
+    },
+    {
+      "question": "куда впадает река богана?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "софья ковалевская: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1850"
+    },
+    {
+      "question": "в каком году опубликовано \"государство и революция\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1918"
+    },
+    {
+      "question": "где находится \"музей-квартира а. а. блока\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город армавир?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1839"
+    },
+    {
+      "question": "куда впадает река баклуша?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "богана"
+    },
+    {
+      "question": "софья ковалевская: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1891"
+    },
+    {
+      "question": "кто написал \"туманность андромеды\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван ефремов"
+    },
+    {
+      "question": "где находится \"ярославский художественный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ярославль"
+    },
+    {
+      "question": "в каком году основан город белореченск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1862"
+    },
+    {
+      "question": "куда впадает река сухой иловай?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иловай"
+    },
+    {
+      "question": "место рождения: софья ковалевская?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"туманность андромеды\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1957"
+    },
+    {
+      "question": "где находится \"самарский областной художественный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "самара."
+    },
+    {
+      "question": "в каком году основан город геленджик?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1831"
+    },
+    {
+      "question": "куда впадает река вотгать?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нёмда."
+    },
+    {
+      "question": "иван крылов: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1769"
+    },
+    {
+      "question": "кто написал \"три вопроса\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"серпуховский историко-художественный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "серпухов"
+    },
+    {
+      "question": "в каком году основан город гулькевичи?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1875"
+    },
+    {
+      "question": "куда впадает река малая ира?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "большая ира"
+    },
+    {
+      "question": "иван крылов: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1844"
+    },
+    {
+      "question": "в каком году опубликовано \"три вопроса\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1903"
+    },
+    {
+      "question": "где находится \"музей эротики\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город кореновск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1794"
+    },
+    {
+      "question": "куда впадает река ржакса?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "место рождения: иван крылов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "кто написал \"в круге первом\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр солженицын"
+    },
+    {
+      "question": "где находится \"музей московской железной дороги\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "замоскворечье."
+    },
+    {
+      "question": "в каком году основан город кропоткин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1874"
+    },
+    {
+      "question": "куда впадает река южный козленец?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "керженец"
+    },
+    {
+      "question": "модест мусоргский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1839"
+    },
+    {
+      "question": "в каком году опубликовано \"в круге первом\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1968"
+    },
+    {
+      "question": "где находится \"музей мирового океана\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "в каком году основан город крымск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1862"
+    },
+    {
+      "question": "куда впадает река хоботец?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вишнёвка."
+    },
+    {
+      "question": "модест мусоргский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1881."
+    },
+    {
+      "question": "кто написал \"белые ночи\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"центральный дом художника\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "московская губерния"
+    },
+    {
+      "question": "в каком году основан город курганинск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1853"
+    },
+    {
+      "question": "куда впадает река мещерка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "воронеж"
+    },
+    {
+      "question": "место рождения: модест мусоргский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "карево"
+    },
+    {
+      "question": "в каком году опубликовано \"белые ночи\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1848"
+    },
+    {
+      "question": "где находится \"особняк румянцева\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город лабинск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1841."
+    },
+    {
+      "question": "куда впадает река большая вишнёвка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вишнёвка."
+    },
+    {
+      "question": "виталий гинзбург: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1916"
+    },
+    {
+      "question": "кто написал \"апрельские тезисы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир ильич ленин"
+    },
+    {
+      "question": "где находится \"всероссийский музей а. с. пушкина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город первоуральск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1732"
+    },
+    {
+      "question": "куда впадает река чебоксар?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ярославка"
+    },
+    {
+      "question": "виталий гинзбург: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "2009"
+    },
+    {
+      "question": "кто написал \"роза мира\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "даниил андреев"
+    },
+    {
+      "question": "где находится \"ульяновский музей-мемориал в. и. ленина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ульяновск"
+    },
+    {
+      "question": "в каком году основан город подольск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1627"
+    },
+    {
+      "question": "куда впадает река сухая панда?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мокрая панда."
+    },
+    {
+      "question": "место рождения: виталий гинзбург?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"роза мира\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1991"
+    },
+    {
+      "question": "где находится \"музей прикладного искусства\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город ладушкин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1314"
+    },
+    {
+      "question": "куда впадает река большая джухта?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рагули"
+    },
+    {
+      "question": "фёдор тютчев: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1803"
+    },
+    {
+      "question": "кто написал \"записки сумасшедшего\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"дом-музей в. м. васнецова\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мещанский район"
+    },
+    {
+      "question": "в каком году основан город мытищи?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1460"
+    },
+    {
+      "question": "куда впадает река скроминка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "воронеж"
+    },
+    {
+      "question": "фёдор тютчев: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1873"
+    },
+    {
+      "question": "в каком году опубликовано \"записки сумасшедшего\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1835"
+    },
+    {
+      "question": "где находится \"red october\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "в каком году основан город майский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1819"
+    },
+    {
+      "question": "куда впадает река лопатинка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мокрая панда."
+    },
+    {
+      "question": "место рождения: фёдор тютчев?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "овстуг."
+    },
+    {
+      "question": "кто написал \"севастопольские рассказы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"reflex\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "в каком году основан город сочи?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1838"
+    },
+    {
+      "question": "куда впадает река ворша?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "нёмда"
+    },
+    {
+      "question": "николай карамзин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1766"
+    },
+    {
+      "question": "в каком году опубликовано \"севастопольские рассказы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1855"
+    },
+    {
+      "question": "где находится \"абрамцево\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "абрамцево"
+    },
+    {
+      "question": "в каком году основан город шелехов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1953"
+    },
+    {
+      "question": "куда впадает река оржевка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "николай карамзин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1826"
+    },
+    {
+      "question": "кто написал \"мёртвые души\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"александровский централ\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александровское"
+    },
+    {
+      "question": "в каком году основан город моздок?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1763"
+    },
+    {
+      "question": "куда впадает река малая мошля?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "шумика"
+    },
+    {
+      "question": "место рождения: николай карамзин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "карамзинка"
+    },
+    {
+      "question": "в каком году опубликовано \"мёртвые души\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1842."
+    },
+    {
+      "question": "где находится \"алтайский государственный краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "барнаул."
+    },
+    {
+      "question": "в каком году основан город ардон?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1824"
+    },
+    {
+      "question": "куда впадает река ирка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ира"
+    },
+    {
+      "question": "виктор цой: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1962"
+    },
+    {
+      "question": "кто написал \"холстомер\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"амурский областной краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "благовещенск"
+    },
+    {
+      "question": "в каком году основан город торопец?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1074"
+    },
+    {
+      "question": "куда впадает река ольшанка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ирка"
+    },
+    {
+      "question": "виктор цой: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1990"
+    },
+    {
+      "question": "в каком году опубликовано \"холстомер\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1886"
+    },
+    {
+      "question": "где находится \"артёмовский городской исторический музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "артёмовский"
+    },
+    {
+      "question": "в каком году основан город мариинск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1698"
+    },
+    {
+      "question": "куда впадает река подгорная река?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "место рождения: виктор цой?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"чайка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"архангельский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "архангельск"
+    },
+    {
+      "question": "в каком году основан город чита?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1653."
+    },
+    {
+      "question": "куда впадает река колодезная река?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лесной воронеж"
+    },
+    {
+      "question": "александр герцен: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1812"
+    },
+    {
+      "question": "в каком году опубликовано \"чайка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1896"
+    },
+    {
+      "question": "где находится \"археологический музей \"горгиппия\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "анапа."
+    },
+    {
+      "question": "в каком году основан город нязепетровск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1747"
+    },
+    {
+      "question": "куда впадает река шмаруха?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "чембар"
+    },
+    {
+      "question": "александр герцен: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1870"
+    },
+    {
+      "question": "в каком году опубликовано \"конституция российской федерации\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1993"
+    },
+    {
+      "question": "где находится \"астраханский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "астрахань."
+    },
+    {
+      "question": "в каком году основан город зеленогорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1956"
+    },
+    {
+      "question": "куда впадает река вяжля?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "место рождения: александр герцен?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "кто написал \"записки из подполья\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"ахтынский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ахты"
+    },
+    {
+      "question": "в каком году основан город шебекино?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1713"
+    },
+    {
+      "question": "куда впадает река босолук?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "семёновский ручей"
+    },
+    {
+      "question": "дима билан: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1981"
+    },
+    {
+      "question": "в каком году опубликовано \"записки из подполья\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1864"
+    },
+    {
+      "question": "где находится \"б-413\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "калининград"
+    },
+    {
+      "question": "в каком году основан город строитель?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1958"
+    },
+    {
+      "question": "куда впадает река мошля?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "место рождения: дима билан?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "усть-джегута"
+    },
+    {
+      "question": "кто написал \"материализм и эмпириокритицизм\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир ильич ленин"
+    },
+    {
+      "question": "где находится \"бахчисарайский историко-культурный заповедник\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "бахчисарай"
+    },
+    {
+      "question": "в каком году основан город новый оскол?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1647."
+    },
+    {
+      "question": "куда впадает река нюдевка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ворона"
+    },
+    {
+      "question": "григорий перельман: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1966"
+    },
+    {
+      "question": "в каком году опубликовано \"материализм и эмпириокритицизм\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1909"
+    },
+    {
+      "question": "где находится \"белгородский литературный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "белгород"
+    },
+    {
+      "question": "в каком году основан город короча?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1637"
+    },
+    {
+      "question": "куда впадает река раковая ряса?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "становая ряса."
+    },
+    {
+      "question": "место рождения: григорий перельман?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"таня гроттер\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "дмитрий емец."
+    },
+    {
+      "question": "где находится \"бийский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "бийск"
+    },
+    {
+      "question": "в каком году основан город заозёрный?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1776"
+    },
+    {
+      "question": "куда впадает река озёрка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кудьма"
+    },
+    {
+      "question": "александр скрябин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1872"
+    },
+    {
+      "question": "кто написал \"плутония\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир обручев"
+    },
+    {
+      "question": "где находится \"билярский музей-заповедник\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "алексеевский район"
+    },
+    {
+      "question": "в каком году основан город курчатов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1968"
+    },
+    {
+      "question": "куда впадает река чернявка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "раменка"
+    },
+    {
+      "question": "александр скрябин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1915"
+    },
+    {
+      "question": "в каком году опубликовано \"плутония\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1924"
+    },
+    {
+      "question": "где находится \"болховский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "болхов"
+    },
+    {
+      "question": "в каком году основан город обоянь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1650"
+    },
+    {
+      "question": "куда впадает река кринка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "керженец"
+    },
+    {
+      "question": "место рождения: александр скрябин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва."
+    },
+    {
+      "question": "кто написал \"дядя ваня\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"бородинский военно-исторический музей-заповедник\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "посёлок бородинского музея"
+    },
+    {
+      "question": "в каком году основан город суджа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1664"
+    },
+    {
+      "question": "куда впадает река вонжа?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "кашинка"
+    },
+    {
+      "question": "николай носков: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1956"
+    },
+    {
+      "question": "в каком году опубликовано \"дядя ваня\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1897"
+    },
+    {
+      "question": "где находится \"ботик петра i\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "веськово"
+    },
+    {
+      "question": "в каком году основан город дзержинск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1606"
+    },
+    {
+      "question": "куда впадает река келноть?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "горьковское водохранилище"
+    },
+    {
+      "question": "место рождения: николай носков?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "гагарин"
+    },
+    {
+      "question": "кто написал \"записки охотника\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван тургенев"
+    },
+    {
+      "question": "где находится \"бронебашенная батарея-35\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "севастополь."
+    },
+    {
+      "question": "в каком году основан город волчанск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1850"
+    },
+    {
+      "question": "куда впадает река теткиш?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сеньдега"
+    },
+    {
+      "question": "андрей колмогоров: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1903"
+    },
+    {
+      "question": "в каком году опубликовано \"записки охотника\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1852"
+    },
+    {
+      "question": "где находится \"брянский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "брянск"
+    },
+    {
+      "question": "в каком году основан город иланский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1646"
+    },
+    {
+      "question": "куда впадает река тюмберь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мамокша"
+    },
+    {
+      "question": "андрей колмогоров: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1987."
+    },
+    {
+      "question": "кто написал \"отец сергий\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"брянский лес\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "брянск"
+    },
+    {
+      "question": "в каком году основан город новокузнецк?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1618"
+    },
+    {
+      "question": "куда впадает река кутьма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лехта"
+    },
+    {
+      "question": "место рождения: андрей колмогоров?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тамбов."
+    },
+    {
+      "question": "в каком году опубликовано \"отец сергий\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1911"
+    },
+    {
+      "question": "где находится \"булгаковский дом\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году основан город набережные челны?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1626"
+    },
+    {
+      "question": "куда впадает река медоза?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мера"
+    },
+    {
+      "question": "илья пригожин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1917"
+    },
+    {
+      "question": "кто написал \"нос\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"валуйский историко-художественный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "валуйки"
+    },
+    {
+      "question": "в каком году основан город магнитогорск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1929"
+    },
+    {
+      "question": "куда впадает река грязнушка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мамокша"
+    },
+    {
+      "question": "илья пригожин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "2003"
+    },
+    {
+      "question": "в каком году опубликовано \"нос\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1836"
+    },
+    {
+      "question": "где находится \"вата\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ростов-на-дону"
+    },
+    {
+      "question": "в каком году основан город нижний тагил?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1722"
+    },
+    {
+      "question": "куда впадает река гнилуха?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "место рождения: илья пригожин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "кто написал \"обломов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван гончаров"
+    },
+    {
+      "question": "где находится \"винзавод\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "басманный район"
+    },
+    {
+      "question": "в каком году основан город волжский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1951"
+    },
+    {
+      "question": "куда впадает река рюмина?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "могза"
+    },
+    {
+      "question": "николай бухарин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1888"
+    },
+    {
+      "question": "в каком году опубликовано \"обломов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1859"
+    },
+    {
+      "question": "где находится \"московский музей дизайна\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году основан город волоколамск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1135"
+    },
+    {
+      "question": "куда впадает река большой мартын?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "большая кокшага"
+    },
+    {
+      "question": "николай бухарин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1938"
+    },
+    {
+      "question": "кто написал \"три толстяка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "юрий олеша"
+    },
+    {
+      "question": "где находится \"витославлицы\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "великий новгород."
+    },
+    {
+      "question": "в каком году основан город вязьма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1239"
+    },
+    {
+      "question": "куда впадает река лужменка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "малая пудица."
+    },
+    {
+      "question": "место рождения: николай бухарин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "в каком году опубликовано \"три толстяка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1928"
+    },
+    {
+      "question": "где находится \"владивостокская крепость\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владивосток"
+    },
+    {
+      "question": "в каком году основан город дмитров?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1154"
+    },
+    {
+      "question": "куда впадает река бздыриха?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "корожечна"
+    },
+    {
+      "question": "александр куприн: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1870"
+    },
+    {
+      "question": "кто написал \"ванька\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"владимиро-суздальский музей-заповедник\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимирская область"
+    },
+    {
+      "question": "в каком году основан город елец?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1146"
+    },
+    {
+      "question": "куда впадает река новосёлка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "яхрома"
+    },
+    {
+      "question": "александр куприн: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1938"
+    },
+    {
+      "question": "в каком году опубликовано \"ванька\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1886"
+    },
+    {
+      "question": "где находится \"военная горка\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "краснодарский край"
+    },
+    {
+      "question": "в каком году основан город ельня?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1150"
+    },
+    {
+      "question": "куда впадает река большая пудица?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "угличское водохранилище"
+    },
+    {
+      "question": "место рождения: александр куприн?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "наровчат"
+    },
+    {
+      "question": "кто написал \"борис годунов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр пушкин."
+    },
+    {
+      "question": "где находится \"военно-медицинский музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город калач-на-дону?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1708"
+    },
+    {
+      "question": "куда впадает река ржавка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ока"
+    },
+    {
+      "question": "михаил глинка: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1804"
+    },
+    {
+      "question": "в каком году опубликовано \"борис годунов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1831"
+    },
+    {
+      "question": "где находится \"военно-морской музей северного флота\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "мурманск"
+    },
+    {
+      "question": "в каком году основан город ковров?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1157"
+    },
+    {
+      "question": "куда впадает река мордова?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волгоградское водохранилище"
+    },
+    {
+      "question": "михаил глинка: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1857"
+    },
+    {
+      "question": "кто написал \"метро 2033\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "дмитрий глуховский"
+    },
+    {
+      "question": "где находится \"вологодская областная картинная галерея\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вологда"
+    },
+    {
+      "question": "в каком году основан город адыгейск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1969"
+    },
+    {
+      "question": "куда впадает река ахробость?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "черёмуха"
+    },
+    {
+      "question": "место рождения: михаил глинка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "новоспасское."
+    },
+    {
+      "question": "кто написал \"старосветские помещики\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где находится \"вологодский музей-заповедник\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "вологда"
+    },
+    {
+      "question": "в каком году основан город алейск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1913"
+    },
+    {
+      "question": "куда впадает река воронуха?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "пукша"
+    },
+    {
+      "question": "николай чернышевский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1828"
+    },
+    {
+      "question": "в каком году опубликовано \"старосветские помещики\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1835"
+    },
+    {
+      "question": "где находится \"воронежский областной краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "воронеж"
+    },
+    {
+      "question": "в каком году основан город бийск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1709"
+    },
+    {
+      "question": "куда впадает река люйка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "петьялка"
+    },
+    {
+      "question": "николай чернышевский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1889"
+    },
+    {
+      "question": "кто написал \"чёрный монах\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "где находится \"ворошиловская батарея\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владивосток"
+    },
+    {
+      "question": "в каком году основан город агрыз?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1646"
+    },
+    {
+      "question": "куда впадает река пукша?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "угличское водохранилище"
+    },
+    {
+      "question": "место рождения: николай чернышевский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "саратов."
+    },
+    {
+      "question": "в каком году опубликовано \"чёрный монах\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1894"
+    },
+    {
+      "question": "где находится \"музейный комплекс \"вселенная воды\"\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город азнакаево?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1762"
+    },
+    {
+      "question": "куда впадает река корнеж?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "шуя"
+    },
+    {
+      "question": "евгений евтушенко: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1933"
+    },
+    {
+      "question": "кто написал \"смерть поэта\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "михаил лермонтов"
+    },
+    {
+      "question": "где находится \"всероссийский музей декоративного искусства\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тверской район."
+    },
+    {
+      "question": "в каком году основан город азов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1067"
+    },
+    {
+      "question": "куда впадает река шойка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "ировка."
+    },
+    {
+      "question": "евгений евтушенко: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "2017"
+    },
+    {
+      "question": "в каком году опубликовано \"смерть поэта\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1852."
+    },
+    {
+      "question": "где находится \"вятский палеонтологический музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "киров"
+    },
+    {
+      "question": "в каком году основан город ак-довурак?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1964"
+    },
+    {
+      "question": "куда впадает река саратовка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волгоградское водохранилище"
+    },
+    {
+      "question": "место рождения: евгений евтушенко?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "зима"
+    },
+    {
+      "question": "кто написал \"отрочество\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "лев толстой"
+    },
+    {
+      "question": "где находится \"галереи эрарта\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город аксай?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1570"
+    },
+    {
+      "question": "куда впадает река езильница?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "костромское водохранилище"
+    },
+    {
+      "question": "георгий плеханов: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1856"
+    },
+    {
+      "question": "в каком году опубликовано \"отрочество\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1854"
+    },
+    {
+      "question": "где находится \"галерея экспериментального звука\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году основан город алагир?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1850"
+    },
+    {
+      "question": "куда впадает река лондога?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "осья"
+    },
+    {
+      "question": "георгий плеханов: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1918"
+    },
+    {
+      "question": "кто написал \"сон смешного человека\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "где находится \"генуэзская крепость\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "судак"
+    },
+    {
+      "question": "в каком году основан город алапаевск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1639"
+    },
+    {
+      "question": "куда впадает река коровка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "черёмуха."
+    },
+    {
+      "question": "место рождения: георгий плеханов?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "гудаловка"
+    },
+    {
+      "question": "в каком году опубликовано \"сон смешного человека\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1877"
+    },
+    {
+      "question": "где находится \"голицынская больница\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "якиманка"
+    },
+    {
+      "question": "в каком году основан город алатырь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1552"
+    },
+    {
+      "question": "куда впадает река лютенка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сестра"
+    },
+    {
+      "question": "гавриил державин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1743."
+    },
+    {
+      "question": "кто написал \"жизнь и судьба\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "василий гроссман"
+    },
+    {
+      "question": "где находится \"государственный литературный музей\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "центральный административный округ."
+    },
+    {
+      "question": "в каком году основан город алдан?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1924"
+    },
+    {
+      "question": "куда впадает река танга?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "покша"
+    },
+    {
+      "question": "гавриил державин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1816"
+    },
+    {
+      "question": "в каком году опубликовано \"жизнь и судьба\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1980"
+    },
+    {
+      "question": "в каком году основан город александров?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1301."
+    },
+    {
+      "question": "куда впадает река цедень?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "шава"
+    },
+    {
+      "question": "место рождения: гавриил державин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сокуры"
+    },
+    {
+      "question": "кто написал \"ночной дозор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "сергей лукьяненко"
+    },
+    {
+      "question": "в каком году основан город александровск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1783"
+    },
+    {
+      "question": "куда впадает река утьма?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "могза"
+    },
+    {
+      "question": "ирвинг берлин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1888"
+    },
+    {
+      "question": "в каком году опубликовано \"ночной дозор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1998"
+    },
+    {
+      "question": "в каком году основан город александровск-сахалинский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1869"
+    },
+    {
+      "question": "куда впадает река татарка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "южный козленец"
+    },
+    {
+      "question": "ирвинг берлин: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1989"
+    },
+    {
+      "question": "кто написал \"иванов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "в каком году основан город алексеевка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1685"
+    },
+    {
+      "question": "куда впадает река жабня?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "шоша"
+    },
+    {
+      "question": "место рождения: ирвинг берлин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "тюмень"
+    },
+    {
+      "question": "в каком году опубликовано \"иванов\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1889"
+    },
+    {
+      "question": "в каком году основан город алексин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1348"
+    },
+    {
+      "question": "куда впадает река гнилой ручей?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "безенчук"
+    },
+    {
+      "question": "николай рерих: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1874"
+    },
+    {
+      "question": "кто написал \"защита лужина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "владимир набоков"
+    },
+    {
+      "question": "в каком году основан город алзамай?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1899"
+    },
+    {
+      "question": "куда впадает река родиловка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "рыбинское водохранилище"
+    },
+    {
+      "question": "николай рерих: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1947"
+    },
+    {
+      "question": "в каком году опубликовано \"защита лужина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1930"
+    },
+    {
+      "question": "в каком году основан город альметьевск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1740"
+    },
+    {
+      "question": "куда впадает река чернуха?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "урдома"
+    },
+    {
+      "question": "место рождения: николай рерих?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "кто написал \"раковый корпус\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "александр солженицын"
+    },
+    {
+      "question": "в каком году основан город амурск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1958"
+    },
+    {
+      "question": "куда впадает река якша?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "борисовка"
+    },
+    {
+      "question": "александр дугин: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1962"
+    },
+    {
+      "question": "в каком году опубликовано \"раковый корпус\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1967"
+    },
+    {
+      "question": "в каком году основан город ангарск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1948"
+    },
+    {
+      "question": "куда впадает река большая маза?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "место рождения: александр дугин?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "москва"
+    },
+    {
+      "question": "кто написал \"рудин\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "иван тургенев"
+    },
+    {
+      "question": "в каком году основан город андреаполь?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1907"
+    },
+    {
+      "question": "куда впадает река кушалка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "медведица"
+    },
+    {
+      "question": "владимир вернадский: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1863"
+    },
+    {
+      "question": "в каком году опубликовано \"рудин\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1856"
+    },
+    {
+      "question": "в каком году основан город анжеро-судженск?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1897"
+    },
+    {
+      "question": "куда впадает река нижняя старица?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "волга"
+    },
+    {
+      "question": "владимир вернадский: год смерти?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1945"
+    },
+    {
+      "question": "кто написал \"безотцовщина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "в каком году основан город анива?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1886"
+    },
+    {
+      "question": "куда впадает река шудумка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "большая кокшага"
+    },
+    {
+      "question": "место рождения: владимир вернадский?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "в каком году опубликовано \"безотцовщина\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1923"
+    },
+    {
+      "question": "в каком году основан город апатиты?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1926"
+    },
+    {
+      "question": "куда впадает река малая решемка?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "горьковское водохранилище"
+    },
+    {
+      "question": "леонид андреев: год рождения?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "1871"
+    },
+    {
+      "question": "кто написал \"великий инквизитор\"?",
+      "correct": true,
+      "split": "russia_familiar",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "назови место, где находится \"литературный музей\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "красноярск"
+    },
+    {
+      "question": "назови год публикации \"как закалялась сталь\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1932"
+    },
+    {
+      "question": "год основания города черняховск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1336"
+    },
+    {
+      "question": "в какой водоём впадает река обь?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "карское море"
+    },
+    {
+      "question": "куда несёт воды река татарка?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "южный козленец"
+    },
+    {
+      "question": "когда вышло произведение \"братья карамазовы\", в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1880"
+    },
+    {
+      "question": "река пукша куда впадает?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "угличское водохранилище"
+    },
+    {
+      "question": "город евпатория находится на каком водоёме?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "северский донец"
+    },
+    {
+      "question": "назови административный центр: хакасия.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "абакан"
+    },
+    {
+      "question": "назови год публикации \"игрок\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1867"
+    },
+    {
+      "question": "год основания города саратов?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1590"
+    },
+    {
+      "question": "назови год выхода произведения \"записки из подполья\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1864"
+    },
+    {
+      "question": "назови год основания города тверь.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1135"
+    },
+    {
+      "question": "назови год публикации \"маленький герой\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1857"
+    },
+    {
+      "question": "где родилась алла пугачёва?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "москва"
+    },
+    {
+      "question": "куда несёт воды река западная двина?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "калександрая пушов."
+    },
+    {
+      "question": "административный центр региона \"карачаево-черкесия\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "черкесск"
+    },
+    {
+      "question": "когда родился александр бородин, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1833"
+    },
+    {
+      "question": "назови год основания города андреаполь.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1907"
+    },
+    {
+      "question": "назови водоём, куда впадает река подгорная река.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ворона"
+    },
+    {
+      "question": "куда несёт воды река кама?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "волга"
+    },
+    {
+      "question": "куда несёт воды река люйка?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "петьялка"
+    },
+    {
+      "question": "в какой водоём впадает река яна?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "янский залив"
+    },
+    {
+      "question": "назови водоём, куда впадает река малая нева.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "невская губа"
+    },
+    {
+      "question": "назови дату международного женского дня.",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "1951"
+    },
+    {
+      "question": "когда был основан город алейск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1913"
+    },
+    {
+      "question": "назови место, где находится \"дачная столица\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "сиверский"
+    },
+    {
+      "question": "назови автора произведения \"идиот\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "назови место, где находится \"музей архитектуры имени а. в. щусева\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "москва"
+    },
+    {
+      "question": "где родился билан?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "усть-уджегута"
+    },
+    {
+      "question": "кто написал произведение \"вечера на хуторе близ диканьки\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "год основания города елец?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1146"
+    },
+    {
+      "question": "в каком году родился карамзин?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1766"
+    },
+    {
+      "question": "назови год основания города сланцы.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1934"
+    },
+    {
+      "question": "куда несёт воды река гнилой ручей?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "безенчук"
+    },
+    {
+      "question": "административный центр региона \"кемеровская область\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "кемерово"
+    },
+    {
+      "question": "какая столица у региона \"бурятия\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "улан-удэ"
+    },
+    {
+      "question": "когда вышло произведение \"бедные люди\", в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1846"
+    },
+    {
+      "question": "каков год смерти: николай рерих?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1947"
+    },
+    {
+      "question": "назови водоём, куда впадает река волхов.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ладожское озеро"
+    },
+    {
+      "question": "какой водоём рядом с городом хабаровск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "амур"
+    },
+    {
+      "question": "река сакмара куда впадает?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "урал"
+    },
+    {
+      "question": "в каком году вышло \"отцы и дети\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1862."
+    },
+    {
+      "question": "назови водоём у города тотьма.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "сухона"
+    },
+    {
+      "question": "какой орёл изображён на российском гербе?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "ценей"
+    },
+    {
+      "question": "у какого водоёма находится город набережные челны?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "кама"
+    },
+    {
+      "question": "когда основали город суздаль?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1024"
+    },
+    {
+      "question": "в каком месте расположен \"мемориальный комплекс \"катынь\"\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "катынь"
+    },
+    {
+      "question": "где можно найти \"кунсткамера\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "василеостровский район."
+    },
+    {
+      "question": "какой водоём рядом с городом корсаков?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "анива."
+    },
+    {
+      "question": "в какой водоём впадает река анграпа?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "преголя"
+    },
+    {
+      "question": "назови место, где находится \"гмз \"павловск\"\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "павловск"
+    },
+    {
+      "question": "назови местоположение: военно-морской музей северного флота.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "мурманск"
+    },
+    {
+      "question": "какое место рождения у человека по имени бунин?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "воронеж"
+    },
+    {
+      "question": "назови год основания города светогорск.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1887."
+    },
+    {
+      "question": "назови год основания города ханты-мансийск.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1931"
+    },
+    {
+      "question": "каков год рождения: колмогоров?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1903."
+    },
+    {
+      "question": "назови цвета российского триколора сверху вниз.",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "бильянск."
+    },
+    {
+      "question": "назови место, где находится \"ахтынский краеведческий музей\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ахты"
+    },
+    {
+      "question": "город санкт-петербург находится на каком водоёме?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "иртышевкий рай"
+    },
+    {
+      "question": "административный центр региона \"сахалинская область\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "южно-сахалинск"
+    },
+    {
+      "question": "назови местоположение: ульяновский музей-мемориал в. и. ленина.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ульяновск"
+    },
+    {
+      "question": "куда несёт воды река лужменка?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "малая пудица"
+    },
+    {
+      "question": "когда основали город алапаевск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1639"
+    },
+    {
+      "question": "назови место, где находится \"панорама \"оборона севастополя\"\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ленинский район"
+    },
+    {
+      "question": "назови автора \"конёк-горбунок\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "пётр ершов"
+    },
+    {
+      "question": "в каком году родился рахманинов?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1873"
+    },
+    {
+      "question": "назови автора \"вконтакте\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "павел дуров"
+    },
+    {
+      "question": "в каком году родился горький?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1868"
+    },
+    {
+      "question": "назови место, где находится \"астраханский краеведческий музей\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "астрахань"
+    },
+    {
+      "question": "откуда родом колмогоров?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "тамбов"
+    },
+    {
+      "question": "когда родился тургенев, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1818"
+    },
+    {
+      "question": "назови композитора российского гимна.",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "сан1951"
+    },
+    {
+      "question": "назови автора \"бесы\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "назови год выхода произведения \"записки сумасшедшего\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1835"
+    },
+    {
+      "question": "год основания города калуга?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1371"
+    },
+    {
+      "question": "в какой водоём впадает река нева?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "невская губа"
+    },
+    {
+      "question": "какой водоём рядом с городом каспийск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "каспийское море"
+    },
+    {
+      "question": "назови автора произведения \"записки из подполья\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "назови автора \"нос\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "николай гоголь"
+    },
+    {
+      "question": "где можно найти \"галерея экспериментального звука\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "назови водоём, куда впадает река сухона.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "северная двина."
+    },
+    {
+      "question": "назови автора произведения \"апрельские тезисы\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "владимир ильич ленин"
+    },
+    {
+      "question": "когда основали город ижевск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1760"
+    },
+    {
+      "question": "в какой водоём впадает река пур?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "тазовская губа"
+    },
+    {
+      "question": "назови местоположение: нарвские триумфальные ворота.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "кировский район."
+    },
+    {
+      "question": "в какой водоём впадает река пинега?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "северная двина."
+    },
+    {
+      "question": "когда вышло произведение \"мы\", в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1924"
+    },
+    {
+      "question": "назови год основания города иланский.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1646"
+    },
+    {
+      "question": "назови год основания города анжеро-судженск.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1897"
+    },
+    {
+      "question": "когда основали город аксай?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1570"
+    },
+    {
+      "question": "назови место, где находится \"космонавт виктор пацаев\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "калининград."
+    },
+    {
+      "question": "какой водоём рядом с городом ханты-мансийск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "иртыш"
+    },
+    {
+      "question": "назови год выхода произведения \"севастопольские рассказы\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1855"
+    },
+    {
+      "question": "в каком году родился пастернак?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1890"
+    },
+    {
+      "question": "назови административный центр: рязанская область.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "рязань"
+    },
+    {
+      "question": "назови центр региона \"калининградская область\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "калининград"
+    },
+    {
+      "question": "назови водоём у города заинск.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "зай"
+    },
+    {
+      "question": "в каком месте расположен \"исаакиевский собор\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "год основания города липецк?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1703"
+    },
+    {
+      "question": "в каком году родился леонтьев?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1949"
+    },
+    {
+      "question": "назови местоположение: царицыно.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "царицыно"
+    },
+    {
+      "question": "в каком году родился василий кандинский?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1866"
+    },
+    {
+      "question": "назови автора произведения \"плутония\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "владимир обручев."
+    },
+    {
+      "question": "куда несёт воды река большой ик?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "сакмара"
+    },
+    {
+      "question": "когда умер александр куприн, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1938"
+    },
+    {
+      "question": "в каком году вышло \"вишнёвый сад\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1904"
+    },
+    {
+      "question": "год основания города грозный?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1818"
+    },
+    {
+      "question": "где можно найти \"архангельский краеведческий музей\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "архангельск"
+    },
+    {
+      "question": "когда основали город бийск?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "1704"
+    },
+    {
+      "question": "назови год выхода произведения \"нос\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1836"
+    },
+    {
+      "question": "в какой водоём впадает река коровка?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "черёмуха."
+    },
+    {
+      "question": "у какого водоёма находится город лесозаводск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "уссури"
+    },
+    {
+      "question": "когда основали город гулькевичи?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1875"
+    },
+    {
+      "question": "когда умер вернадский, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1945"
+    },
+    {
+      "question": "назови год основания города подпорожье.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1936"
+    },
+    {
+      "question": "назови водоём у города бикин.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "бикин"
+    },
+    {
+      "question": "назови год публикации \"чайка\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1896"
+    },
+    {
+      "question": "год основания города ульяновск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1648"
+    },
+    {
+      "question": "город елабуга находится на каком водоёме?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "волга"
+    },
+    {
+      "question": "назови водоём, куда впадает река хатанга.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "хатангский залив"
+    },
+    {
+      "question": "река шудумка куда впадает?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "большая икокшага"
+    },
+    {
+      "question": "когда основали город темрюк?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1556"
+    },
+    {
+      "question": "когда умер цой, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1990"
+    },
+    {
+      "question": "какое место рождения у человека по имени иван тургенев?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "орёл."
+    },
+    {
+      "question": "каков год смерти: чернышевский?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1889"
+    },
+    {
+      "question": "куда несёт воды река рюмина?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "могза"
+    },
+    {
+      "question": "назови год публикации \"сон смешного человека\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1877"
+    },
+    {
+      "question": "назови год выхода произведения \"война и мир\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1869"
+    },
+    {
+      "question": "назови автора \"мастер и маргарита\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "михаил булгаков"
+    },
+    {
+      "question": "назови год основания города горно-алтайск.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1830"
+    },
+    {
+      "question": "назови водоём, куда впадает река луга.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "лужская губа"
+    },
+    {
+      "question": "год основания города бокситогорск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1929"
+    },
+    {
+      "question": "автор произведения \"сон смешного человека\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "фёдор достоевский."
+    },
+    {
+      "question": "каково число депутатов государственной думы?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "450"
+    },
+    {
+      "question": "назови год основания города александров.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1301."
+    },
+    {
+      "question": "назови автора произведения \"безотцовщина\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "антон чехов"
+    },
+    {
+      "question": "когда основали город пенза?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1663"
+    },
+    {
+      "question": "назови автора произведения \"один день ивана денисовича\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "александр солженицын."
+    },
+    {
+      "question": "в каком месте расположен \"серпуховский историко-художественный музей\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "серпухов"
+    },
+    {
+      "question": "кто написал произведение \"великий инквизитор\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "фёдор достоевский"
+    },
+    {
+      "question": "год основания города нязепетровск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1747"
+    },
+    {
+      "question": "назови место, где находится \"музей космонавтики\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "москва"
+    },
+    {
+      "question": "река кременка куда впадает?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "оредеж"
+    },
+    {
+      "question": "когда вышло произведение \"материализм и эмпириокритицизм\", в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1909"
+    },
+    {
+      "question": "когда родился вернадский, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1863"
+    },
+    {
+      "question": "в каком месте расположен \"музей анны ахматовой в фонтанном доме\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "когда был основан город ардон?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1824"
+    },
+    {
+      "question": "когда вышло произведение \"ночной дозор\", в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1998"
+    },
+    {
+      "question": "год основания города агрыз?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1646"
+    },
+    {
+      "question": "какой город является столицей российской федерации?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "москва"
+    },
+    {
+      "question": "когда основали город дальнегорск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1897"
+    },
+    {
+      "question": "назови год выхода произведения \"раковый корпус\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1967"
+    },
+    {
+      "question": "каков год смерти: николай карамзин?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1826"
+    },
+    {
+      "question": "где можно найти \"музей сновидений фрейда\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "санкт-петербург"
+    },
+    {
+      "question": "когда умер скрябин, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1915"
+    },
+    {
+      "question": "когда был основан город апатиты?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1926"
+    },
+    {
+      "question": "когда был основан город сертолово?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1936"
+    },
+    {
+      "question": "в какой водоём впадает река ольшанка?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ирка"
+    },
+    {
+      "question": "назови местоположение: балаклавский подземный музейный комплекс.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "балаклава."
+    },
+    {
+      "question": "река большая пудица куда впадает?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "москва"
+    },
+    {
+      "question": "у какого водоёма находится город уфа?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "болавль"
+    },
+    {
+      "question": "автор произведения \"обломов\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "иван гончаров"
+    },
+    {
+      "question": "в каком месте расположен \"домик няни а. с. пушкина\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "кобрино."
+    },
+    {
+      "question": "назови год выхода произведения \"накануне\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1860"
+    },
+    {
+      "question": "у какого водоёма находится город красногорск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "банька"
+    },
+    {
+      "question": "назови водоём у города азов.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "дон"
+    },
+    {
+      "question": "назови автора произведения \"тимур и его команда\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "аркадий гайдар"
+    },
+    {
+      "question": "кто написал произведение \"архипелаг гулаг\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "александр солженицын."
+    },
+    {
+      "question": "город беломорск находится на каком водоёме?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "волга"
+    },
+    {
+      "question": "в какой водоём впадает река лебедь?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "бия"
+    },
+    {
+      "question": "где родился бакунин?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "кама"
+    },
+    {
+      "question": "в какой водоём впадает река лена?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "море лаптевых"
+    },
+    {
+      "question": "назови центр региона \"астраханская область\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "астрахань"
+    },
+    {
+      "question": "какая столица у региона \"калмыкия\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "элиста"
+    },
+    {
+      "question": "когда основали город магас?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1995"
+    },
+    {
+      "question": "река чернуха куда впадает?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "ура"
+    },
+    {
+      "question": "административный центр региона \"марий эл\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "йошкар-ола"
+    },
+    {
+      "question": "когда был основан город нарьян-мар?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1931"
+    },
+    {
+      "question": "назови автора \"метро 2033\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "дмитрий глуховский"
+    },
+    {
+      "question": "каков год смерти: игорь стравинский?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1971"
+    },
+    {
+      "question": "как назывался корабль первой женщины-космонавта?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "мики"
+    },
+    {
+      "question": "в каком году умер тютчев?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1873"
+    },
+    {
+      "question": "в каком году вышло \"защита лужина\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1930"
+    },
+    {
+      "question": "назови водоём у города кимры.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "волга"
+    },
+    {
+      "question": "назови административный центр: липецкая область.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "липецк"
+    },
+    {
+      "question": "назови центр региона \"брянская область\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "брянск"
+    },
+    {
+      "question": "в каком году родился фёдор достоевский?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1821"
+    },
+    {
+      "question": "назови год выхода произведения \"в круге первом\".",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "1856"
+    },
+    {
+      "question": "где можно найти \"музей мирового океана\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "калининград"
+    },
+    {
+      "question": "когда умер рахманинов, в каком году?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1943"
+    },
+    {
+      "question": "назови центр региона \"ставропольский край\".",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "ставрополь."
+    },
+    {
+      "question": "когда был основан город анива?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1886"
+    },
+    {
+      "question": "когда был основан город курганинск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1853"
+    },
+    {
+      "question": "город подольск находится на каком водоёме?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "волга"
+    },
+    {
+      "question": "куда несёт воды река новосёлка?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "яхрома"
+    },
+    {
+      "question": "когда основали город белореченск?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1862"
+    },
+    {
+      "question": "назови год основания города тамбов.",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "1636"
+    },
+    {
+      "question": "автор произведения \"государство и революция\"?",
+      "correct": true,
+      "split": "russia_unseen",
+      "answer": "владимир ильич ленин."
+    },
+    {
+      "question": "евгений евтушенко: где место рождения?",
+      "correct": false,
+      "split": "russia_unseen",
+      "answer": "тверский район"
+    }
+  ],
+  "metrics": {
+    "russia_familiar": {
+      "total": 1000,
+      "correct": 1000,
+      "accuracy": 1
+    },
+    "russia_unseen": {
+      "total": 200,
+      "correct": 180,
+      "accuracy": 0.9
+    }
+  }
+}

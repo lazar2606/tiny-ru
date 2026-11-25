@@ -1,0 +1,123 @@
+{
+  "metrics": {
+    "user_regression": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    }
+  },
+  "total": 8,
+  "invalid_tokens": 0,
+  "unterminated": 0,
+  "examples": [
+    {
+      "question": "Hi",
+      "answers": [
+        "привет",
+        "привет."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "привет",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "привет как дела?",
+      "answers": [
+        "привет, всё хорошо",
+        "привет, всё хорошо."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "привет, всё хорошо",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "Привет, как дела",
+      "answers": [
+        "привет, всё хорошо",
+        "привет, всё хорошо."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "привет, всё хорошо",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "Какая столица России?",
+      "answers": [
+        "москва",
+        "москва.",
+        "столица россии - москва."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "москва.",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "какая столица россии",
+      "answers": [
+        "москва",
+        "москва.",
+        "столица россии - москва."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "москва.",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "сколько будет 2+2",
+      "answers": [
+        "4",
+        "4.",
+        "получится 4."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "4",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "сколько будет 2 + 2?",
+      "answers": [
+        "4",
+        "4.",
+        "получится 4."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "4",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    },
+    {
+      "question": "2+2",
+      "answers": [
+        "4",
+        "4.",
+        "получится 4."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "4",
+      "terminated": true,
+      "invalid_tokens": 0,
+      "correct": true
+    }
+  ]
+}

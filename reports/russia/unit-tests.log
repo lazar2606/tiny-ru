@@ -1,0 +1,59 @@
+test_unseen_questions_exclude_both_training_stages (test_improved_data.ImprovedDataTests) ... ok
+test_dataset_and_split (test_ru.DatasetTests) ... ok
+test_no_silent_truncation (test_ru.DatasetTests) ... ok
+test_export_reload (test_ru.ModelTests) ... ok
+test_forward_loss (test_ru.ModelTests) ... ok
+test_per_example_loss_does_not_downweight_short_answers (test_ru.ModelTests) ... ok
+test_resume_matches_uninterrupted (test_ru.ModelTests) ... ok
+test_alphabet_roundtrip (test_ru.TokenTests) ... ok
+test_header_matches_and_all_bytes_safe (test_ru.TokenTests) ... ok
+test_unknown_and_range (test_ru.TokenTests) ... ok
+test_bad_model_files (test_runtime.RuntimeTests) ... ok
+test_cr_only_and_mixed_line_endings (test_runtime.RuntimeTests) ... ok
+test_empty_long_and_all_cp866_bytes (test_runtime.RuntimeTests) ... ok
+test_corrected_sources_and_final_holdouts (test_russia.RussiaDataTests) ... ok
+test_expanded_forms_exclude_all_previous_stages (test_russia.RussiaDataTests) ... ok
+test_first_stage_holdouts_and_dos_limits (test_russia.RussiaDataTests) ... ok
+test_focus_training_resume_is_exact (test_russia.RussiaDataTests) ... ok
+test_thousand_distinct_relations_and_provenance (test_russia.RussiaDataTests) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 18.033s
+
+OK
+{
+  "seed": 42,
+  "vocab_sha256": "1adf7e87dd45be438042dfb3ed4c52c99730e3e26504a24f307240c85aa68334",
+  "facts": 1185,
+  "train": 7110,
+  "test": 1185,
+  "control": 140,
+  "categories": {
+    "география": 32,
+    "природа": 25,
+    "физика": 23,
+    "математика": 10,
+    "техника": 14,
+    "разговор": 13,
+    "арифметика": 1053,
+    "неизвестное": 15
+  },
+  "arithmetic_form_by_y_parity": {
+    "0": {
+      "0": 258,
+      "1": 262
+    },
+    "1": {
+      "0": 253,
+      "1": 280
+    }
+  },
+  "sha256": {
+    "facts.jsonl": "d84aa207c17263fe4ecaad79fd61191154d4ff6851724273afead2e4d43cc01d",
+    "train.jsonl": "2f36942ce18de76344e29f541b18ca1d444ed1fb66369daacca0412ec7c27cbc",
+    "test.jsonl": "2e537fc13ec70053c33dea1cdd9943eaf26b8049525928412649c5e0c36dba02",
+    "control.jsonl": "c7c58ea7064844c66192ff79fdd1e0830ca4fd4247c94bb83ff92721874c0699"
+  },
+  "license": "MIT; original wording and programmatically checked arithmetic",
+  "caveat": "1000+ total includes arithmetic; editorial entries are not independently source-audited"
+}

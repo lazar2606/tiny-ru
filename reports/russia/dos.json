@@ -1,0 +1,204 @@
+{
+  "total": 14,
+  "metrics": {
+    "russia_familiar": {
+      "correct": 7,
+      "total": 7,
+      "accuracy": 1.0
+    },
+    "russia_unseen": {
+      "correct": 0,
+      "total": 1,
+      "accuracy": 0.0
+    },
+    "user_regression": {
+      "correct": 6,
+      "total": 6,
+      "accuracy": 1.0
+    }
+  },
+  "invalid_tokens": 0,
+  "unterminated": 0,
+  "examples": [
+    {
+      "fact_id": "russia-0001",
+      "category": "россия: государство",
+      "question": "кто президент россии?",
+      "answers": [
+        "владимир путин",
+        "владимир путин."
+      ],
+      "split": "russia_familiar",
+      "answer": "владимир путин.",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0001",
+      "category": "россия: государство",
+      "question": "кто занимает пост президента рф?",
+      "answers": [
+        "владимир путин",
+        "владимир путин."
+      ],
+      "split": "russia_unseen",
+      "answer": "михаяль?",
+      "correct": false,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0040",
+      "category": "россия: регионы",
+      "question": "какой центр у региона \"самарская область\"?",
+      "answers": [
+        "самара",
+        "самара."
+      ],
+      "split": "russia_familiar",
+      "answer": "самара",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0042",
+      "category": "россия: города",
+      "question": "в каком году основан город санкт-петербург?",
+      "answers": [
+        "1703",
+        "1703."
+      ],
+      "split": "russia_familiar",
+      "answer": "1703",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0043",
+      "category": "россия: реки",
+      "question": "куда впадает река волга?",
+      "answers": [
+        "каспийское море",
+        "каспийское море."
+      ],
+      "split": "russia_familiar",
+      "answer": "каспийское море",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0044",
+      "category": "россия: биографии",
+      "question": "лев толстой: год рождения?",
+      "answers": [
+        "1828",
+        "1828."
+      ],
+      "split": "russia_familiar",
+      "answer": "1828",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0045",
+      "category": "россия: литература",
+      "question": "кто написал \"горе от ума\"?",
+      "answers": [
+        "александр грибоедов",
+        "александр грибоедов."
+      ],
+      "split": "russia_familiar",
+      "answer": "александр грибоедов",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "fact_id": "russia-0046",
+      "category": "россия: музеи",
+      "question": "где находится музей \"гатчина\"?",
+      "answers": [
+        "гатчина",
+        "гатчина."
+      ],
+      "split": "russia_familiar",
+      "answer": "гатчина",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "question": "Hi",
+      "answers": [
+        "привет",
+        "привет."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "привет",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "question": "привет как дела?",
+      "answers": [
+        "привет, всё хорошо",
+        "привет, всё хорошо."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "привет, всё хорошо",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "question": "Привет, как дела",
+      "answers": [
+        "привет, всё хорошо",
+        "привет, всё хорошо."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "привет, всё хорошо",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "question": "Какая столица России?",
+      "answers": [
+        "москва",
+        "москва.",
+        "столица россии - москва."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "москва.",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "question": "сколько будет 2 + 2?",
+      "answers": [
+        "4",
+        "4.",
+        "получится 4."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "4",
+      "correct": true,
+      "terminated": true
+    },
+    {
+      "question": "2+2",
+      "answers": [
+        "4",
+        "4.",
+        "получится 4."
+      ],
+      "category": "user_regression",
+      "split": "user_regression",
+      "answer": "4",
+      "correct": true,
+      "terminated": true
+    }
+  ],
+  "weights_sha256": "222913b9b6f44642211c694ed188f988bfa7f106198889c55932b06abb808b55"
+}

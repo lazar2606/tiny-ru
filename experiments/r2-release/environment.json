@@ -1,0 +1,24 @@
+{
+  "python": "3.8.5 (default, Jul 28 2020, 12:59:40) \n[GCC 9.3.0]",
+  "numpy": "1.24.4",
+  "torch": "2.4.1+cpu",
+  "platform": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.29",
+  "vocab_sha256": "1adf7e87dd45be438042dfb3ed4c52c99730e3e26504a24f307240c85aa68334",
+  "compiler": "Open Watcom v2 beta 2026-11-21, Linux x64 host; 16-bit DOS Large -3 -fpi87 -os",
+  "emulator": "DOSBox-X 2026.10.01 mingw64 SDL1",
+  "files": {
+    "dos/TINY.EXE": {
+      "bytes": 41826,
+      "sha256": "daa89389a96475b38c1b7f223efa75f020fae7a5129b4f8b40d24c34ab498074"
+    },
+    "dos/TINY.BIN": {
+      "bytes": 381808,
+      "sha256": "cc81ff4413dd85beda691fd1b3d98d65974a77413ff7d938ab1acc4acc510c8e"
+    },
+    "training/release.pt": {
+      "bytes": 4449099,
+      "sha256": "ed7fbd356c0c5a4c08fd300c049605dc3d88414783d7ff291393626b1aa85367"
+    }
+  },
+  "release": "2.1r2"
+}

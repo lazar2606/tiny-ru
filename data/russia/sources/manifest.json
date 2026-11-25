@@ -1,0 +1,51 @@
+{
+  "regions": {
+    "rows": 82,
+    "sha256": "fe779135d5c9b2b84bbd43ff59728b4b4b406937c5035316f96df4af2a3fc297",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  },
+  "cities": {
+    "rows": 701,
+    "sha256": "2c33114147cdd49f031494ecb88da3043e23af2ff49be4802c2776cbdae7bb99",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  },
+  "rivers": {
+    "rows": 250,
+    "sha256": "3fa8a311c05c2db81d027f5d056060b724b36d9f457648bb2d60131eef105200",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  },
+  "people": {
+    "rows": 340,
+    "sha256": "eb7de5e75e94e857273140d53dd1e3f188e0660dbefa0fb0436673cdb566b204",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  },
+  "books": {
+    "rows": 470,
+    "sha256": "e80205126fb4f5b933afcd017bad4637175b1abc03eb4eeb57ff358a78d5837a",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  },
+  "museums": {
+    "rows": 207,
+    "sha256": "af34955926177b80d131a281a85a0d764d0b7c52d4d8031358e3b0278b3b8751",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  },
+  "genders": {
+    "rows": 57,
+    "sha256": "25c42fc4557b930a328cea554479392648440193882d301bdf39b219b23816a6",
+    "source": "https://query-next.wikidata.org/",
+    "license": "CC0-1.0",
+    "retrieved": "2026-11-24"
+  }
+}

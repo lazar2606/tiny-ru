@@ -1,0 +1,6 @@
+{
+  "version": "tiny-ru-1",
+  "special": ["<pad>", "<eos>"],
+  "characters": "абвгдеёжзийклмнопрстуфхцчшщъыьэюяabcdefghijklmnopqrstuvwxyz0123456789 .,!?;:-+*/=()[]<>%\"'\\_@#$",
+  "unknown": "?"
+}

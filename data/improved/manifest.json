@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "vocab_sha256": "1adf7e87dd45be438042dfb3ed4c52c99730e3e26504a24f307240c85aa68334",
+  "facts": 1188,
+  "train": 21876,
+  "test": 1188,
+  "control": 140,
+  "user_regressions": 8,
+  "categories": {
+    "география": 32,
+    "природа": 25,
+    "физика": 23,
+    "математика": 10,
+    "техника": 14,
+    "разговор": 16,
+    "арифметика": 1053,
+    "неизвестное": 15
+  },
+  "sha256": {
+    "facts": "fec9abd6633a78a55911b894e44461d6eb4d436076f378a387c2b4b4f8bb1e7f",
+    "train": "8bc7c9bfd053a97a992e7d83446e7df8d8615d36fd700a59368b8ce110f56545",
+    "test": "b9faf4084bbac10829ec0156abfd3f2d6a633cc9f12826d78d78726459b20ded",
+    "control": "698c106241aaeb7ed92a559c6b58abc6b9a4f536ca8fa9b431070ffd1005f193",
+    "user-regressions": "9f09977be32d34d58a610defa1445bc183d5b5d007dc34e6bef3db94c42122a4"
+  },
+  "license": "MIT",
+  "note": "Original control is now a regression set; use improved/control for held-out wording. User examples are deliberately trained regressions."
+}

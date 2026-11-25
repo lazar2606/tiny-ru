@@ -1,0 +1,21 @@
+{
+  "facts": 1000,
+  "train": 37581,
+  "sha256": {
+    "facts": "01708cd5333f14ed26941d150221d63cafe63b95ea0e478e61b5548132d89c18",
+    "train": "55e02834b72bc82df669e0b7e81fe75fdeb26c0eb4f158ddf0fdec94aa73867e",
+    "test": "1c33602e8ffbb0d2747f3ff2929874f6bc7822f85b9feef439c7581a0cb0f1ef",
+    "validation": "bdec698e52a41187f282933764d31bc0e7bd46c98d97a1f90e46194e968882db",
+    "familiar": "a9067a97062b99fd771914ff5a2d1b2d94abf221d6008cef8f77696dbfb23e09",
+    "control": "18cc68d25ecc5e5255e9f3ece43666cb576fda65fffbba4f1f3fbe16cf855221",
+    "smoke": "be1ab54d1fe05c5ce55e106f316a42aa6de4eba8c0d48966256ac96151a4b73c"
+  },
+  "corrected_ids": [
+    "russia-0043",
+    "russia-0106",
+    "russia-0316",
+    "russia-0298",
+    "russia-0046"
+  ],
+  "note": "Raw multi-valued imports are historical snapshots, not final reference answers. Current source of truth is russia-final."
+}

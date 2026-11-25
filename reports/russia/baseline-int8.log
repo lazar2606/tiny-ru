@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "russia_familiar": {
+      "correct": 1,
+      "total": 1000,
+      "accuracy": 0.001
+    }
+  },
+  "total": 1000,
+  "invalid_tokens": 0,
+  "unterminated": 0
+}

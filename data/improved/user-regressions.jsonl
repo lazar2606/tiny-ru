@@ -1,0 +1,8 @@
+{"question": "Hi", "answers": ["привет", "привет."], "category": "user_regression", "split": "user_regression"}
+{"question": "привет как дела?", "answers": ["привет, всё хорошо", "привет, всё хорошо."], "category": "user_regression", "split": "user_regression"}
+{"question": "Привет, как дела", "answers": ["привет, всё хорошо", "привет, всё хорошо."], "category": "user_regression", "split": "user_regression"}
+{"question": "Какая столица России?", "answers": ["москва", "москва.", "столица россии - москва."], "category": "user_regression", "split": "user_regression"}
+{"question": "какая столица россии", "answers": ["москва", "москва.", "столица россии - москва."], "category": "user_regression", "split": "user_regression"}
+{"question": "сколько будет 2+2", "answers": ["4", "4.", "получится 4."], "category": "user_regression", "split": "user_regression"}
+{"question": "сколько будет 2 + 2?", "answers": ["4", "4.", "получится 4."], "category": "user_regression", "split": "user_regression"}
+{"question": "2+2", "answers": ["4", "4.", "получится 4."], "category": "user_regression", "split": "user_regression"}

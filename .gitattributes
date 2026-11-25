@@ -1,0 +1,27 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.c text eol=lf
+*.C text eol=lf
+*.h text eol=lf
+*.H text eol=lf
+*.ps1 text eol=lf
+*.cmd text eol=crlf
+*.CMD text eol=crlf
+*.bat text eol=crlf
+*.BAT text eol=crlf
+*.jsonl -text
+data/** -text
+reports/** -text -whitespace
+*.BIN binary
+*.EXE binary
+*.pt binary
+*.IMG binary
+*.zip binary
+*.png binary
+*.cp866.txt binary
+dos/README.TXT binary
+dos/NOTICE.TXT -text whitespace=cr-at-eol
+dos/WATCOM.TXT -text -whitespace
+docs/OPEN_WATCOM_LICENSE.txt -whitespace
+windows/*LICENSE* -whitespace

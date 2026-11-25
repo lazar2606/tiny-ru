@@ -1,0 +1,13 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT ?item ?itemLabel ?place ?placeLabel ?year WHERE {
+ { SELECT ?item WHERE { ?item wdt:P31/wdt:P279* wd:Q33506; wdt:P17 wd:Q159. }
+ ORDER BY xsd:integer(STRAFTER(STR(?item), "entity/Q")) LIMIT 200 }
+ OPTIONAL { ?item wdt:P131 ?place. }
+ OPTIONAL { ?item wdt:P571 ?year. }
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+ } ORDER BY ?item

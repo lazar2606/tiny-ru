@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "vocab_sha256": "1adf7e87dd45be438042dfb3ed4c52c99730e3e26504a24f307240c85aa68334",
+  "facts": 1185,
+  "train": 7110,
+  "test": 1185,
+  "control": 140,
+  "categories": {
+    "география": 32,
+    "природа": 25,
+    "физика": 23,
+    "математика": 10,
+    "техника": 14,
+    "разговор": 13,
+    "арифметика": 1053,
+    "неизвестное": 15
+  },
+  "arithmetic_form_by_y_parity": {
+    "0": {
+      "0": 258,
+      "1": 262
+    },
+    "1": {
+      "0": 253,
+      "1": 280
+    }
+  },
+  "sha256": {
+    "facts.jsonl": "d84aa207c17263fe4ecaad79fd61191154d4ff6851724273afead2e4d43cc01d",
+    "train.jsonl": "2f36942ce18de76344e29f541b18ca1d444ed1fb66369daacca0412ec7c27cbc",
+    "test.jsonl": "2e537fc13ec70053c33dea1cdd9943eaf26b8049525928412649c5e0c36dba02",
+    "control.jsonl": "c7c58ea7064844c66192ff79fdd1e0830ca4fd4247c94bb83ff92721874c0699"
+  },
+  "license": "MIT; original wording and programmatically checked arithmetic",
+  "caveat": "1000+ total includes arithmetic; editorial entries are not independently source-audited"
+}

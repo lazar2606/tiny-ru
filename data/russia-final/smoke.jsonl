@@ -1,0 +1,14 @@
+{"fact_id": "russia-0001", "category": "россия: государство", "question": "кто президент россии?", "answers": ["владимир путин", "владимир путин."], "split": "russia_familiar"}
+{"fact_id": "russia-0001", "category": "россия: государство", "question": "кто занимает пост президента рф?", "answers": ["владимир путин", "владимир путин."], "split": "russia_unseen"}
+{"fact_id": "russia-0040", "category": "россия: регионы", "question": "какой центр у региона \"самарская область\"?", "answers": ["самара", "самара."], "split": "russia_familiar"}
+{"fact_id": "russia-0042", "category": "россия: города", "question": "в каком году основан город санкт-петербург?", "answers": ["1703", "1703."], "split": "russia_familiar"}
+{"fact_id": "russia-0043", "category": "россия: реки", "question": "куда впадает река волга?", "answers": ["каспийское море", "каспийское море."], "split": "russia_familiar"}
+{"fact_id": "russia-0044", "category": "россия: биографии", "question": "лев толстой: год рождения?", "answers": ["1828", "1828."], "split": "russia_familiar"}
+{"fact_id": "russia-0045", "category": "россия: литература", "question": "кто написал \"горе от ума\"?", "answers": ["александр грибоедов", "александр грибоедов."], "split": "russia_familiar"}
+{"fact_id": "russia-0046", "category": "россия: музеи", "question": "где находится музей \"гатчина\"?", "answers": ["гатчина", "гатчина."], "split": "russia_familiar"}
+{"question": "Hi", "answers": ["привет", "привет."], "category": "user_regression", "split": "user_regression"}
+{"question": "привет как дела?", "answers": ["привет, всё хорошо", "привет, всё хорошо."], "category": "user_regression", "split": "user_regression"}
+{"question": "Привет, как дела", "answers": ["привет, всё хорошо", "привет, всё хорошо."], "category": "user_regression", "split": "user_regression"}
+{"question": "Какая столица России?", "answers": ["москва", "москва.", "столица россии - москва."], "category": "user_regression", "split": "user_regression"}
+{"question": "сколько будет 2 + 2?", "answers": ["4", "4.", "получится 4."], "category": "user_regression", "split": "user_regression"}
+{"question": "2+2", "answers": ["4", "4.", "получится 4."], "category": "user_regression", "split": "user_regression"}

@@ -1,0 +1,140 @@
+{"fact_id": "ru-0031", "category": "география", "question": "назови глубочайшее озеро.", "answers": ["байкал", "байкал."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0018", "category": "география", "question": "как называется столица индии?", "answers": ["нью-дели", "нью-дели.", "столица индии - нью-дели."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0045", "category": "природа", "question": "кто детёныш лошади?", "answers": ["жеребёнок", "жеребёнок."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0007", "category": "география", "question": "как называется столица португалии?", "answers": ["лиссабон", "лиссабон.", "столица португалии - лиссабон."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0042", "category": "природа", "question": "кто детёныш кошки?", "answers": ["котёнок", "котёнок."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0113", "category": "разговор", "question": "что идёт после е в русском алфавите?", "answers": ["ё", "ё."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0038", "category": "природа", "question": "сколько ног у насекомого?", "answers": ["6", "6."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0062", "category": "физика", "question": "назови шестую планету от солнца.", "answers": ["сатурн", "сатурн."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0050", "category": "природа", "question": "кто из птиц ухает?", "answers": ["сова", "сова."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0037", "category": "природа", "question": "сколько ног у паука?", "answers": ["8", "8."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0097", "category": "техника", "question": "для чего нужен сканер?", "answers": ["оцифровывает изображение", "оцифровывает изображение."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0021", "category": "география", "question": "как называется столица аргентины?", "answers": ["буэнос-айрес", "буэнос-айрес.", "столица аргентины - буэнос-айрес."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0061", "category": "физика", "question": "какая планета пятая от солнца?", "answers": ["юпитер", "юпитер."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0060", "category": "физика", "question": "какая планета четвёртая от солнца?", "answers": ["марс", "марс."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0108", "category": "разговор", "question": "спасибо!", "answers": ["пожалуйста", "пожалуйста."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0040", "category": "природа", "question": "сколько ног у собаки?", "answers": ["4", "4."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0080", "category": "математика", "question": "сколько сторон у треугольника?", "answers": ["3", "3."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0105", "category": "разговор", "question": "какое у тебя имя?", "answers": ["тини", "тини."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0094", "category": "техника", "question": "для чего нужен принтер?", "answers": ["печатает на бумаге", "печатает на бумаге."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0064", "category": "физика", "question": "назови восьмую планету от солнца.", "answers": ["нептун", "нептун."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0112", "category": "разговор", "question": "каково число букв русского алфавита?", "answers": ["33", "33."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0035", "category": "природа", "question": "летает ли страус?", "answers": ["нет", "нет."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0002", "category": "география", "question": "как называется столица японии?", "answers": ["токио", "токио.", "столица японии - токио."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0008", "category": "география", "question": "как называется столица греции?", "answers": ["афины", "афины.", "столица греции - афины."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "chat-status", "category": "разговор", "question": "как дела?", "answers": ["всё хорошо", "всё хорошо."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0032", "category": "природа", "question": "кит является рыбой?", "answers": ["нет, кит - млекопитающее", "нет, кит - млекопитающее."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0054", "category": "природа", "question": "какое животное ржёт?", "answers": ["лошадь", "лошадь."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0091", "category": "техника", "question": "что делает процессор?", "answers": ["выполняет инструкции", "выполняет инструкции."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0074", "category": "физика", "question": "в чём измеряют силу?", "answers": ["ньютон", "ньютон."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0106", "category": "разговор", "question": "что ты такое?", "answers": ["маленькая нейросеть", "маленькая нейросеть."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0066", "category": "физика", "question": "как называется спутник земли?", "answers": ["луна", "луна."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0027", "category": "география", "question": "как называется столица монголии?", "answers": ["улан-батор", "улан-батор.", "столица монголии - улан-батор."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0026", "category": "география", "question": "как называется столица грузии?", "answers": ["тбилиси", "тбилиси.", "столица грузии - тбилиси."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0087", "category": "математика", "question": "сколько минут в часе?", "answers": ["60", "60."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0057", "category": "физика", "question": "какая планета третья от солнца?", "answers": ["земля", "земля."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0013", "category": "география", "question": "как называется столица дании?", "answers": ["копенгаген", "копенгаген.", "столица дании - копенгаген."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "chat-hello-status", "category": "разговор", "question": "привет как дела?", "answers": ["привет, всё хорошо", "привет, всё хорошо."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0003", "category": "география", "question": "как называется столица китая?", "answers": ["пекин", "пекин.", "столица китая - пекин."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0104", "category": "разговор", "question": "привет!", "answers": ["привет", "привет."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0079", "category": "физика", "question": "что быстрее: звук или свет в вакууме?", "answers": ["звук в вакууме не распространяется", "звук в вакууме не распространяется."], "split": "familiar", "holdout_kind": "trained"}
+{"fact_id": "ru-0069", "category": "физика", "question": "чем измеряют температуру?", "answers": ["термометр", "термометр."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0049", "category": "природа", "question": "кто из птиц кукует?", "answers": ["кукушка", "кукушка."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0068", "category": "физика", "question": "уточни: сколько планет в солнечной системе?", "answers": ["8", "8."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0012", "category": "география", "question": "какая у швеции столица?", "answers": ["стокгольм", "стокгольм.", "столица швеции - стокгольм."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0022", "category": "география", "question": "какая у кубы столица?", "answers": ["гавана", "гавана.", "столица кубы - гавана."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0110", "category": "разговор", "question": "ты живой человек?", "answers": ["нет, я нейросеть", "нет, я нейросеть."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0043", "category": "природа", "question": "кто детёныш собаки?", "answers": ["щенок", "щенок."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0072", "category": "физика", "question": "уточни: какая единица напряжения?", "answers": ["вольт", "вольт."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0053", "category": "природа", "question": "какое животное мычит?", "answers": ["корова", "корова."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0102", "category": "техника", "question": "как действует команда cls?", "answers": ["очищает экран", "очищает экран."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0003", "category": "география", "question": "какая у китая столица?", "answers": ["пекин", "пекин.", "столица китая - пекин."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0096", "category": "техника", "question": "зачем нужны звуковые колонки?", "answers": ["воспроизводят звук", "воспроизводят звук."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0005", "category": "география", "question": "назови столицу германии.", "answers": ["берлин", "берлин.", "столица германии - берлин."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0070", "category": "физика", "question": "уточни: какой прибор измеряет давление?", "answers": ["барометр", "барометр."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0088", "category": "математика", "question": "сколько секунд в минуте?", "answers": ["60", "60."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0047", "category": "природа", "question": "на каком дереве растут жёлуди?", "answers": ["дуб", "дуб."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0065", "category": "физика", "question": "какая планета самая большая?", "answers": ["юпитер", "юпитер."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0078", "category": "физика", "question": "уточни: как называют воду в газообразном состоянии?", "answers": ["водяной пар", "водяной пар."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0025", "category": "география", "question": "назови столицу армении.", "answers": ["ереван", "ереван.", "столица армении - ереван."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0015", "category": "география", "question": "какой город является столицей чехии?", "answers": ["прага", "прага.", "столица чехии - прага."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0108", "category": "разговор", "question": "уточни: благодарю!", "answers": ["пожалуйста", "пожалуйста."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0026", "category": "география", "question": "какая у грузии столица?", "answers": ["тбилиси", "тбилиси.", "столица грузии - тбилиси."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0109", "category": "разговор", "question": "пока!", "answers": ["до свидания", "до свидания."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0058", "category": "физика", "question": "какая планета первая от солнца?", "answers": ["меркурий", "меркурий."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0090", "category": "техника", "question": "один байт содержит сколько бит?", "answers": ["8", "8."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0101", "category": "техника", "question": "для чего используют команду dir?", "answers": ["показывает список файлов", "показывает список файлов."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0006", "category": "география", "question": "назови столицу испании.", "answers": ["мадрид", "мадрид.", "столица испании - мадрид."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0064", "category": "физика", "question": "какая планета восьмая от солнца?", "answers": ["нептун", "нептун."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0098", "category": "техника", "question": "какую информацию содержит файл?", "answers": ["данные", "данные."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0076", "category": "физика", "question": "в чём измеряют мощность?", "answers": ["ватт", "ватт."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0087", "category": "математика", "question": "уточни: чему равен час в минутах?", "answers": ["60", "60."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0040", "category": "природа", "question": "уточни: сколько лап у собаки?", "answers": ["4", "4."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "chat-capability", "category": "разговор", "question": "для каких задач ты подходишь?", "answers": ["отвечать на простые вопросы", "отвечать на простые вопросы."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0036", "category": "природа", "question": "летучая мышь является птицей?", "answers": ["нет, это млекопитающее", "нет, это млекопитающее."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0115", "category": "разговор", "question": "уточни: как называется буква ъ?", "answers": ["твёрдый знак", "твёрдый знак."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0024", "category": "география", "question": "какая у беларуси столица?", "answers": ["минск", "минск.", "столица беларуси - минск."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0094", "category": "техника", "question": "какова функция принтера?", "answers": ["печатает на бумаге", "печатает на бумаге."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0099", "category": "техника", "question": "из каких цифр состоят двоичные числа?", "answers": ["0 и 1", "0 и 1."], "split": "paraphrase", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0028", "category": "география", "question": "уточни: какой океан самый большой?", "answers": ["тихий", "тихий."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0031", "category": "география", "question": "уточни: какое озеро самое глубокое?", "answers": ["байкал", "байкал."], "split": "paraphrase", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-0447", "category": "арифметика", "question": "чему равно 20+20?", "answers": ["40", "40.", "получится 40."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0210", "category": "арифметика", "question": "реши пример 3+21.", "answers": ["24", "24.", "получится 24."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1094", "category": "арифметика", "question": "посчитай 14*16.", "answers": ["224", "224.", "получится 224."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0445", "category": "арифметика", "question": "чему равно 19+24?", "answers": ["43", "43.", "получится 43."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0577", "category": "арифметика", "question": "реши пример 14-4.", "answers": ["10", "10.", "получится 10."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0708", "category": "арифметика", "question": "реши пример 21-9.", "answers": ["12", "12.", "получится 12."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0333", "category": "арифметика", "question": "реши пример 10+11.", "answers": ["21", "21.", "получится 21."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1055", "category": "арифметика", "question": "посчитай 11*16.", "answers": ["176", "176.", "получится 176."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0647", "category": "арифметика", "question": "реши пример 18-8.", "answers": ["10", "10.", "получится 10."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0880", "category": "арифметика", "question": "реши пример 2*12.", "answers": ["24", "24.", "получится 24."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0919", "category": "арифметика", "question": "реши пример 4*6.", "answers": ["24", "24.", "получится 24."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0926", "category": "арифметика", "question": "реши пример 4*13.", "answers": ["52", "52.", "получится 52."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0829", "category": "арифметика", "question": "чему равно 0*10?", "answers": ["0", "0.", "получится 0."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1080", "category": "арифметика", "question": "чему равно 13*14?", "answers": ["182", "182.", "получится 182."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0623", "category": "арифметика", "question": "реши пример 17-2.", "answers": ["15", "15.", "получится 15."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0568", "category": "арифметика", "question": "посчитай 13-9.", "answers": ["4", "4.", "получится 4."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0724", "category": "арифметика", "question": "чему равно 22-3?", "answers": ["19", "19.", "получится 19."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0807", "category": "арифметика", "question": "реши пример 25-14.", "answers": ["11", "11.", "получится 11."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0942", "category": "арифметика", "question": "посчитай 5*8.", "answers": ["40", "40.", "получится 40."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0509", "category": "арифметика", "question": "реши пример 8-5.", "answers": ["3", "3.", "получится 3."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1137", "category": "арифметика", "question": "реши пример 18*21.", "answers": ["378", "378.", "получится 378."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0527", "category": "арифметика", "question": "реши пример 10-4.", "answers": ["6", "6.", "получится 6."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0138", "category": "арифметика", "question": "реши пример 0+21.", "answers": ["21", "21.", "получится 21."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0473", "category": "арифметика", "question": "реши пример 2-2.", "answers": ["0", "0.", "получится 0."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1120", "category": "арифметика", "question": "посчитай 16*21.", "answers": ["336", "336.", "получится 336."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0801", "category": "арифметика", "question": "реши пример 25-8.", "answers": ["17", "17.", "получится 17."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0262", "category": "арифметика", "question": "чему равно 6+10?", "answers": ["16", "16.", "получится 16."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0628", "category": "арифметика", "question": "чему равно 17-7?", "answers": ["10", "10.", "получится 10."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1005", "category": "арифметика", "question": "чему равно 8*14?", "answers": ["112", "112.", "получится 112."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0846", "category": "арифметика", "question": "чему равно 1*2?", "answers": ["2", "2.", "получится 2."], "split": "арифметика", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1182", "category": "неизвестное", "question": "подскажи: какого цвета число семь?", "answers": ["некорректный вопрос", "некорректный вопрос.", "вопрос некорректен."], "split": "неизвестное", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-1177", "category": "неизвестное", "question": "ты знаешь мой возраст?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1178", "category": "неизвестное", "question": "ты знаешь мой город?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1181", "category": "неизвестное", "question": "какая столица у солнца?", "answers": ["некорректный вопрос", "некорректный вопрос.", "вопрос некорректен."], "split": "неизвестное", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-1170", "category": "неизвестное", "question": "ты знаешь мой пароль?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1172", "category": "неизвестное", "question": "ты знаешь мой адрес?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1180", "category": "неизвестное", "question": "подскажи: сколько будет 1/0?", "answers": ["некорректный вопрос", "некорректный вопрос.", "вопрос некорректен."], "split": "неизвестное", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-1176", "category": "неизвестное", "question": "ты знаешь мой любимый цвет?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1174", "category": "неизвестное", "question": "ты знаешь мой рост?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1175", "category": "неизвестное", "question": "ты знаешь мой вес?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1173", "category": "неизвестное", "question": "ты знаешь номер моего телефона?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1184", "category": "неизвестное", "question": "подскажи: где живёт квадратный круг?", "answers": ["некорректный вопрос", "некорректный вопрос.", "вопрос некорректен."], "split": "неизвестное", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-1179", "category": "неизвестное", "question": "ты знаешь мой день рождения?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-1183", "category": "неизвестное", "question": "уточни: подскажи: какая столица у числа семь?", "answers": ["некорректный вопрос", "некорректный вопрос.", "вопрос некорректен."], "split": "неизвестное", "holdout_kind": "new_prefix"}
+{"fact_id": "ru-1171", "category": "неизвестное", "question": "ты знаешь моё имя?", "answers": ["не знаю", "не знаю.", "я не знаю."], "split": "неизвестное", "holdout_kind": "semantic_paraphrase"}
+{"fact_id": "ru-0041", "category": "природа", "question": "что собирают пчёлы с цветов?", "answers": ["нектар и пыльцу", "нектар и пыльцу."], "split": "special_letters"}
+{"fact_id": "ru-0021", "category": "география", "question": "как называется столица аргентины?", "answers": ["буэнос-айрес", "буэнос-айрес.", "столица аргентины - буэнос-айрес."], "split": "special_letters"}
+{"fact_id": "ru-0115", "category": "разговор", "question": "каково название буквы ъ?", "answers": ["твёрдый знак", "твёрдый знак."], "split": "special_letters"}
+{"fact_id": "ru-0009", "category": "география", "question": "как называется столица польши?", "answers": ["варшава", "варшава.", "столица польши - варшава."], "split": "special_letters"}
+{"fact_id": "ru-0010", "category": "география", "question": "как называется столица финляндии?", "answers": ["хельсинки", "хельсинки.", "столица финляндии - хельсинки."], "split": "special_letters"}
+{"fact_id": "ru-0012", "category": "география", "question": "как называется столица швеции?", "answers": ["стокгольм", "стокгольм.", "столица швеции - стокгольм."], "split": "special_letters"}
+{"fact_id": "ru-0018", "category": "география", "question": "как называется столица индии?", "answers": ["нью-дели", "нью-дели.", "столица индии - нью-дели."], "split": "special_letters"}
+{"fact_id": "ru-0028", "category": "география", "question": "назови крупнейший океан.", "answers": ["тихий", "тихий."], "split": "special_letters"}
+{"fact_id": "ru-0029", "category": "география", "question": "какой материк самый большой?", "answers": ["евразия", "евразия."], "split": "special_letters"}
+{"fact_id": "ru-0030", "category": "география", "question": "назови высочайшую гору над морем.", "answers": ["эверест", "эверест."], "split": "special_letters"}
+{"fact_id": "ru-0031", "category": "география", "question": "назови глубочайшее озеро.", "answers": ["байкал", "байкал."], "split": "special_letters"}
+{"fact_id": "ru-0032", "category": "природа", "question": "кит является рыбой?", "answers": ["нет, кит - млекопитающее", "нет, кит - млекопитающее."], "split": "special_letters"}
+{"fact_id": "ru-0033", "category": "природа", "question": "дельфин является рыбой?", "answers": ["нет, дельфин - млекопитающее", "нет, дельфин - млекопитающее."], "split": "special_letters"}
+{"fact_id": "ru-0036", "category": "природа", "question": "летучая мышь это птица?", "answers": ["нет, это млекопитающее", "нет, это млекопитающее."], "split": "special_letters"}
+{"fact_id": "ru-0037", "category": "природа", "question": "сколько ног у паука?", "answers": ["8", "8."], "split": "special_letters"}

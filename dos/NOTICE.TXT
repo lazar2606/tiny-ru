@@ -1,0 +1,8 @@
+Tiny-RU source and Russian data: MIT; see LICENSE.TXT.
+Russia facts include Wikidata structured data (CC0-1.0), snapshot 2026-11-24.
+https://www.wikidata.org/wiki/Wikidata:Data_access
+This EXE links the unmodified Open Watcom C runtime.
+Runtime portions: Copyright (c) 1983-2002 Sybase, Inc. and Open Watcom contributors.
+Runtime/toolchain terms: WATCOM.TXT (Sybase Open Watcom Public License 1.0).
+Runtime source: https://github.com/open-watcom/open-watcom-v2/tree/master/bld/clib
+Compiler project: https://github.com/open-watcom/open-watcom-v2

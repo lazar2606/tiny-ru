@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "user_regression": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    }
+  },
+  "total": 8,
+  "invalid_tokens": 0,
+  "unterminated": 0
+}

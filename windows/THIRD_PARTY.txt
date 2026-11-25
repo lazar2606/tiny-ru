@@ -1,0 +1,11 @@
+Tiny-RU source and question wording: MIT; see LICENSE.TXT.
+The model contains original factual questions and Wikidata CC0 data.
+https://www.wikidata.org/wiki/Wikidata:Data_access
+
+This Windows binary is built with Zig 0.14.1 / Clang 19.1.7.
+Zig runtime: MIT; see ZIG-LICENSE.txt.
+Unmodified mingw-w64 runtime portions: see MINGW-LICENSE.txt.
+David M. Gay / Lucent gdtoa notice: GDTOA-LICENSE.txt.
+Runtime source: https://github.com/ziglang/zig/tree/0.14.1/lib/libc/mingw
+Zig runtime source: https://github.com/ziglang/zig/tree/0.14.1/lib/compiler_rt
+Windows system DLLs and the compiler itself are not redistributed.

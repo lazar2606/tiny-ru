@@ -1,0 +1,17 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT ?item ?itemLabel ?value ?valueLabel ?year WHERE {
+ { SELECT DISTINCT ?item ?value WHERE {
+ ?item wdt:P50 ?value; wdt:P407 wd:Q7737; wikibase:sitelinks ?links.
+ FILTER(?links >= 8)
+ ?value wdt:P27 ?country.
+ VALUES ?country { wd:Q159 wd:Q15180 wd:Q34266 }
+ ?item wdt:P31/wdt:P279* wd:Q47461344.
+ } ORDER BY DESC(?links) ?item LIMIT 450 }
+ OPTIONAL { ?item wdt:P577 ?year. }
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+ } ORDER BY ?item

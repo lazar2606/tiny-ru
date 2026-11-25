@@ -1,0 +1,10 @@
+[
+  "1200 real Windows inferences, UTF-8 streams, model loaded outside working directory",
+  "utf8-bom",
+  "cp866",
+  "cp1251",
+  "CR, LF, CRLF, EOF without final newline",
+  "73 Russian characters, 5000-byte line, next question preserved",
+  "Cyrillic executable directory with spaces",
+  "Empty and invalid model rejected"
+]

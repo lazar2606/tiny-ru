@@ -1,0 +1,10 @@
+{
+  "facts": 1000,
+  "train": 37624,
+  "source": "data/russia-expanded/train.jsonl",
+  "sha256": {
+    "train": "66b3acaa785237503f6316cda8ecea0e6bd23ebd315b8d490aaafcfcc4349d1b"
+  },
+  "validation": "data/russia-expanded/validation.jsonl",
+  "control": "data/russia-expanded/control.jsonl"
+}

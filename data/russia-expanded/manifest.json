@@ -1,0 +1,16 @@
+{
+  "facts": 1000,
+  "train": 36466,
+  "new_train": 14592,
+  "sha256": {
+    "facts": "48844e8331785fa7f56b20cbc5ee3d15eee1c7b52cd4eaefea19614a444616ed",
+    "train": "56887c164173e244607608ac531adb3272a104227240a9e3cc7bc4b7fe8b7117",
+    "test": "336ab05790e0aaadcb6c4448b81ec5bbfc1f7797f1c134125b9a0c41390b0762",
+    "validation": "94af4f0699c570426173b8d5948631c0e631cdbb615a232584023324e90cacd6",
+    "control": "7c852a8cfd1a6a0b3e4c89cbec754a77c61c1ac759208feedfb1b141f2d31160",
+    "smoke": "76b7f716cc7a059bbb56f8d123732945cdc98d5612e872febbf6e7b286016705"
+  },
+  "seed": 42,
+  "source_facts": "data/russia/facts.jsonl",
+  "split": "One randomly held wording per fact; excludes v2, r2 and first Russia stage."
+}

@@ -1,0 +1,20 @@
+PASS 1200 real Windows inferences, UTF-8 streams, model loaded outside working directory
+PASS utf8-bom
+PASS cp866
+PASS cp1251
+PASS CR, LF, CRLF, EOF without final newline
+PASS 73 Russian characters, 5000-byte line, next question preserved
+PASS Cyrillic executable directory with spaces
+PASS Empty and invalid model rejected
+{
+  "russia_familiar": {
+    "accuracy": 1,
+    "total": 1000,
+    "correct": 1000
+  },
+  "russia_unseen": {
+    "accuracy": 0.9,
+    "total": 200,
+    "correct": 180
+  }
+}

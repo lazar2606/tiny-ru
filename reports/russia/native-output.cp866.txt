@@ -1,0 +1,3608 @@
+Tiny-RU 2.1r3 - русская нейросеть для DOS.
+Загрузка TINY.BIN ...
+[heap payload: 484196 bytes]
+Готово: слоёв 4, размерность 96, творчество 0.
+Спросите о России, природе, технике или простых числах.
+Для выхода введите QUIT.
+
+>   владимир путин.
+   [15 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   русский
+   [7 letters in 0.0 seconds]
+
+>   рубль
+   [5 letters in 0.0 seconds]
+
+>   100
+   [3 letters in 0.0 seconds]
+
+>   республика
+   [10 letters in 0.0 seconds]
+
+>   президент
+   [9 letters in 0.0 seconds]
+
+>   федеральное собрание
+   [20 letters in 0.0 seconds]
+
+>   государственная дума.
+   [21 letters in 0.0 seconds]
+
+>   совет федерации.
+   [16 letters in 0.0 seconds]
+
+>   450
+   [3 letters in 0.0 seconds]
+
+>   6
+   [1 letters in 0.0 seconds]
+
+>   35
+   [2 letters in 0.0 seconds]
+
+>   5
+   [1 letters in 0.0 seconds]
+
+>   правительство.
+   [14 letters in 0.0 seconds]
+
+>   банк россии
+   [11 letters in 0.0 seconds]
+
+>   1993
+   [4 letters in 0.0 seconds]
+
+>   многонациональный народ
+   [23 letters in 0.0 seconds]
+
+>   18.
+   [3 letters in 0.0 seconds]
+
+>   12 июня
+   [7 letters in 0.0 seconds]
+
+>   4 ноября
+   [8 letters in 0.0 seconds]
+
+>   9 мая.
+   [6 letters in 0.0 seconds]
+
+>   1 мая
+   [5 letters in 0.0 seconds]
+
+>   8 марта
+   [7 letters in 0.0 seconds]
+
+>   23 февраля
+   [10 letters in 0.0 seconds]
+
+>   белый, синий, красный
+   [21 letters in 0.0 seconds]
+
+>   двуглавый орёл.
+   [15 letters in 0.0 seconds]
+
+>   александр александров
+   [21 letters in 0.0 seconds]
+
+>   сергей михалков.
+   [16 letters in 0.0 seconds]
+
+>   юрий гагарин
+   [12 letters in 0.0 seconds]
+
+>   1961.
+   [5 letters in 0.0 seconds]
+
+>   12 апреля 1961
+   [14 letters in 0.0 seconds]
+
+>   восток-1
+   [8 letters in 0.0 seconds]
+
+>   валентина терешкова
+   [19 letters in 0.0 seconds]
+
+>   1963
+   [4 letters in 0.0 seconds]
+
+>   восток-6
+   [8 letters in 0.0 seconds]
+
+>   алексей леонов.
+   [15 letters in 0.0 seconds]
+
+>   1965
+   [4 letters in 0.0 seconds]
+
+>   восход-2.
+   [9 letters in 0.0 seconds]
+
+>   самара
+   [6 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1703
+   [4 letters in 0.0 seconds]
+
+>   каспийское море
+   [15 letters in 0.0 seconds]
+
+>   1828
+   [4 letters in 0.0 seconds]
+
+>   александр грибоедов
+   [19 letters in 0.0 seconds]
+
+>   гатчина
+   [7 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   финский залив
+   [13 letters in 0.0 seconds]
+
+>   1893
+   [4 letters in 0.0 seconds]
+
+>   невская губа.
+   [13 letters in 0.0 seconds]
+
+>   1910
+   [4 letters in 0.0 seconds]
+
+>   1825
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   мурманск.
+   [9 letters in 0.0 seconds]
+
+>   иня
+   [3 letters in 0.0 seconds]
+
+>   1221
+   [4 letters in 0.0 seconds]
+
+>   карское море
+   [12 letters in 0.0 seconds]
+
+>   ясная поляна
+   [12 letters in 0.0 seconds]
+
+>   матвей головинский.
+   [19 letters in 0.0 seconds]
+
+>   петроградский район
+   [19 letters in 0.0 seconds]
+
+>   архангельск
+   [11 letters in 0.0 seconds]
+
+>   почайна
+   [7 letters in 0.0 seconds]
+
+>   1586
+   [4 letters in 0.0 seconds]
+
+>   азовское море
+   [13 letters in 0.0 seconds]
+
+>   1821
+   [4 letters in 0.0 seconds]
+
+>   1903
+   [4 letters in 0.0 seconds]
+
+>   сиверский
+   [9 letters in 0.0 seconds]
+
+>   петрозаводск
+   [12 letters in 0.0 seconds]
+
+>   самара
+   [6 letters in 0.0 seconds]
+
+>   1716
+   [4 letters in 0.0 seconds]
+
+>   сухона
+   [6 letters in 0.0 seconds]
+
+>   1881.
+   [5 letters in 0.0 seconds]
+
+>   александр солженицын
+   [20 letters in 0.0 seconds]
+
+>   выра
+   [4 letters in 0.0 seconds]
+
+>   вологда
+   [7 letters in 0.0 seconds]
+
+>   иртыш
+   [5 letters in 0.0 seconds]
+
+>   1005
+   [4 letters in 0.0 seconds]
+
+>   амур
+   [4 letters in 0.0 seconds]
+
+>   мариинская больница для бедных
+   [30 letters in 0.0 seconds]
+
+>   1962
+   [4 letters in 0.0 seconds]
+
+>   кобрино.
+   [8 letters in 0.0 seconds]
+
+>   сыктывкар
+   [9 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1749
+   [4 letters in 0.0 seconds]
+
+>   тунгуска
+   [8 letters in 0.0 seconds]
+
+>   1799
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский
+   [17 letters in 0.0 seconds]
+
+>   рождествено
+   [11 letters in 0.0 seconds]
+
+>   нарьян-мар
+   [10 letters in 0.0 seconds]
+
+>   дон
+   [3 letters in 0.0 seconds]
+
+>   1574
+   [4 letters in 0.0 seconds]
+
+>   калининградский залив
+   [21 letters in 0.0 seconds]
+
+>   1837
+   [4 letters in 0.0 seconds]
+
+>   1859
+   [4 letters in 0.0 seconds]
+
+>   гатчина
+   [7 letters in 0.0 seconds]
+
+>   гатчина.
+   [8 letters in 0.0 seconds]
+
+>   белая
+   [5 letters in 0.0 seconds]
+
+>   1589
+   [4 letters in 0.0 seconds]
+
+>   преголя
+   [7 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   иван тургенев
+   [13 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   псков
+   [5 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1723
+   [4 letters in 0.0 seconds]
+
+>   куршский залив
+   [14 letters in 0.0 seconds]
+
+>   1840
+   [4 letters in 0.0 seconds]
+
+>   1862
+   [4 letters in 0.0 seconds]
+
+>   царицыно
+   [8 letters in 0.0 seconds]
+
+>   великий новгород
+   [16 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   1628
+   [4 letters in 0.0 seconds]
+
+>   преголя
+   [7 letters in 0.0 seconds]
+
+>   1893
+   [4 letters in 0.0 seconds]
+
+>   осип мандельштам
+   [16 letters in 0.0 seconds]
+
+>   петроградский район
+   [19 letters in 0.0 seconds]
+
+>   нижний новгород
+   [15 letters in 0.0 seconds]
+
+>   енисей
+   [6 letters in 0.0 seconds]
+
+>   1604.
+   [5 letters in 0.0 seconds]
+
+>   преголя
+   [7 letters in 0.0 seconds]
+
+>   городской округ воткинск
+   [24 letters in 0.0 seconds]
+
+>   1933
+   [4 letters in 0.0 seconds]
+
+>   центральный административный округ.
+   [35 letters in 0.1 seconds]
+
+>   тверь
+   [5 letters in 0.0 seconds]
+
+>   томь
+   [4 letters in 0.0 seconds]
+
+>   1916
+   [4 letters in 0.0 seconds]
+
+>   балтийское море
+   [15 letters in 0.0 seconds]
+
+>   1868
+   [4 letters in 0.0 seconds]
+
+>   александр пушкин
+   [16 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   смоленск
+   [8 letters in 0.0 seconds]
+
+>   преголя
+   [7 letters in 0.0 seconds]
+
+>   1255
+   [4 letters in 0.0 seconds]
+
+>   анграпа.
+   [8 letters in 0.0 seconds]
+
+>   1936
+   [4 letters in 0.0 seconds]
+
+>   1825
+   [4 letters in 0.0 seconds]
+
+>   московская область
+   [18 letters in 0.0 seconds]
+
+>   ярославль.
+   [10 letters in 0.0 seconds]
+
+>   вологда
+   [7 letters in 0.0 seconds]
+
+>   1584
+   [4 letters in 0.0 seconds]
+
+>   неман
+   [5 letters in 0.0 seconds]
+
+>   нижний новгород
+   [15 letters in 0.0 seconds]
+
+>   николай островский
+   [18 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   кострома
+   [8 letters in 0.0 seconds]
+
+>   сухона
+   [6 letters in 0.0 seconds]
+
+>   1147
+   [4 letters in 0.0 seconds]
+
+>   охотское море
+   [13 letters in 0.0 seconds]
+
+>   1882
+   [4 letters in 0.0 seconds]
+
+>   1932
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   иваново.
+   [8 letters in 0.0 seconds]
+
+>   печора
+   [6 letters in 0.0 seconds]
+
+>   1780
+   [4 letters in 0.0 seconds]
+
+>   печорское море
+   [14 letters in 0.0 seconds]
+
+>   1971
+   [4 letters in 0.0 seconds]
+
+>   михаил шолохов.
+   [15 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   владимир
+   [8 letters in 0.0 seconds]
+
+>   ильмень
+   [7 letters in 0.0 seconds]
+
+>   1931
+   [4 letters in 0.0 seconds]
+
+>   вишера.
+   [7 letters in 0.0 seconds]
+
+>   ломоносов.
+   [10 letters in 0.0 seconds]
+
+>   1928
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   рязань
+   [6 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1683
+   [4 letters in 0.0 seconds]
+
+>   двинская губа.
+   [14 letters in 0.0 seconds]
+
+>   1918
+   [4 letters in 0.0 seconds]
+
+>   людвик лазарь заменгоф
+   [22 letters in 0.0 seconds]
+
+>   россия.
+   [7 letters in 0.0 seconds]
+
+>   тула
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1135
+   [4 letters in 0.0 seconds]
+
+>   рижский залив
+   [13 letters in 0.0 seconds]
+
+>   2008
+   [4 letters in 0.0 seconds]
+
+>   1887
+   [4 letters in 0.0 seconds]
+
+>   павловск
+   [8 letters in 0.0 seconds]
+
+>   брянск
+   [6 letters in 0.0 seconds]
+
+>   десна
+   [5 letters in 0.0 seconds]
+
+>   1010
+   [4 letters in 0.0 seconds]
+
+>   северная двина
+   [14 letters in 0.0 seconds]
+
+>   кисловодск
+   [10 letters in 0.0 seconds]
+
+>   1971
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   калуга
+   [6 letters in 0.0 seconds]
+
+>   ока
+   [3 letters in 0.0 seconds]
+
+>   1152
+   [4 letters in 0.0 seconds]
+
+>   северная двина
+   [14 letters in 0.0 seconds]
+
+>   1899
+   [4 letters in 0.0 seconds]
+
+>   евгений замятин.
+   [16 letters in 0.0 seconds]
+
+>   балаклава.
+   [10 letters in 0.0 seconds]
+
+>   орёл.
+   [5 letters in 0.0 seconds]
+
+>   северский донец
+   [15 letters in 0.0 seconds]
+
+>   1095
+   [4 letters in 0.0 seconds]
+
+>   лужская губа
+   [12 letters in 0.0 seconds]
+
+>   1977
+   [4 letters in 0.0 seconds]
+
+>   1924
+   [4 letters in 0.0 seconds]
+
+>   кубинка
+   [7 letters in 0.0 seconds]
+
+>   курск.
+   [6 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1371
+   [4 letters in 0.0 seconds]
+
+>   луга
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   павел дуров
+   [11 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   белгород
+   [8 letters in 0.0 seconds]
+
+>   амур
+   [4 letters in 0.0 seconds]
+
+>   1566
+   [4 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   1818
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский
+   [17 letters in 0.0 seconds]
+
+>   мелихово.
+   [9 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1596
+   [4 letters in 0.0 seconds]
+
+>   псковское озеро
+   [15 letters in 0.0 seconds]
+
+>   1883
+   [4 letters in 0.0 seconds]
+
+>   1846
+   [4 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   липецк
+   [6 letters in 0.0 seconds]
+
+>   свияга
+   [6 letters in 0.0 seconds]
+
+>   1586
+   [4 letters in 0.0 seconds]
+
+>   лена
+   [4 letters in 0.0 seconds]
+
+>   орёл
+   [4 letters in 0.0 seconds]
+
+>   александр пушкин
+   [16 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   тамбов
+   [6 letters in 0.0 seconds]
+
+>   иртыш
+   [5 letters in 0.0 seconds]
+
+>   1703
+   [4 letters in 0.0 seconds]
+
+>   лена
+   [4 letters in 0.0 seconds]
+
+>   1814
+   [4 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   архангельская область
+   [21 letters in 0.0 seconds]
+
+>   ростов-на-дону.
+   [15 letters in 0.0 seconds]
+
+>   рудная
+   [6 letters in 0.0 seconds]
+
+>   1636
+   [4 letters in 0.0 seconds]
+
+>   енисей
+   [6 letters in 0.0 seconds]
+
+>   1876
+   [4 letters in 0.0 seconds]
+
+>   иван тургенев.
+   [14 letters in 0.0 seconds]
+
+>   красноярск
+   [10 letters in 0.0 seconds]
+
+>   краснодар
+   [9 letters in 0.0 seconds]
+
+>   чёрное море
+   [11 letters in 0.0 seconds]
+
+>   1558
+   [4 letters in 0.0 seconds]
+
+>   хатанга
+   [7 letters in 0.0 seconds]
+
+>   прямухино
+   [9 letters in 0.0 seconds]
+
+>   1860
+   [4 letters in 0.0 seconds]
+
+>   нагатинский затон
+   [17 letters in 0.0 seconds]
+
+>   майкоп
+   [6 letters in 0.0 seconds]
+
+>   вуокса
+   [6 letters in 0.0 seconds]
+
+>   1865.
+   [5 letters in 0.0 seconds]
+
+>   онемен
+   [6 letters in 0.0 seconds]
+
+>   1890
+   [4 letters in 0.0 seconds]
+
+>   александр пушкин
+   [16 letters in 0.0 seconds]
+
+>   красноярск
+   [10 letters in 0.0 seconds]
+
+>   волгоград
+   [9 letters in 0.0 seconds]
+
+>   свирь
+   [5 letters in 0.0 seconds]
+
+>   1858
+   [4 letters in 0.0 seconds]
+
+>   енисей
+   [6 letters in 0.0 seconds]
+
+>   1960
+   [4 letters in 0.0 seconds]
+
+>   1836
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   астрахань
+   [9 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   1818
+   [4 letters in 0.0 seconds]
+
+>   лена
+   [4 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   ясная поляна.
+   [13 letters in 0.0 seconds]
+
+>   элиста.
+   [7 letters in 0.0 seconds]
+
+>   свирь
+   [5 letters in 0.0 seconds]
+
+>   1777
+   [4 letters in 0.0 seconds]
+
+>   амур
+   [4 letters in 0.0 seconds]
+
+>   1814
+   [4 letters in 0.0 seconds]
+
+>   1899
+   [4 letters in 0.0 seconds]
+
+>   астрахань
+   [9 letters in 0.0 seconds]
+
+>   владивосток
+   [11 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   1995
+   [4 letters in 0.0 seconds]
+
+>   оленёкский залив
+   [16 letters in 0.0 seconds]
+
+>   1841
+   [4 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   махачкала
+   [9 letters in 0.0 seconds]
+
+>   нева
+   [4 letters in 0.0 seconds]
+
+>   1784
+   [4 letters in 0.0 seconds]
+
+>   невская губа.
+   [13 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1877
+   [4 letters in 0.0 seconds]
+
+>   кировский район.
+   [16 letters in 0.0 seconds]
+
+>   грозный
+   [7 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   1825.
+   [5 letters in 0.0 seconds]
+
+>   невская губа
+   [12 letters in 0.0 seconds]
+
+>   1949
+   [4 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   ставрополь
+   [10 letters in 0.0 seconds]
+
+>   пахра
+   [5 letters in 0.0 seconds]
+
+>   1590
+   [4 letters in 0.0 seconds]
+
+>   белая
+   [5 letters in 0.0 seconds]
+
+>   усть-уса
+   [8 letters in 0.0 seconds]
+
+>   1869
+   [4 letters in 0.0 seconds]
+
+>   василеостровский район.
+   [23 letters in 0.0 seconds]
+
+>   магас
+   [5 letters in 0.0 seconds]
+
+>   чёрное море
+   [11 letters in 0.0 seconds]
+
+>   1743
+   [4 letters in 0.0 seconds]
+
+>   белая
+   [5 letters in 0.0 seconds]
+
+>   1905
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   таганский район
+   [15 letters in 0.0 seconds]
+
+>   владикавказ.
+   [12 letters in 0.0 seconds]
+
+>   олонка
+   [6 letters in 0.0 seconds]
+
+>   1641
+   [4 letters in 0.0 seconds]
+
+>   самур
+   [5 letters in 0.0 seconds]
+
+>   1982
+   [4 letters in 0.0 seconds]
+
+>   максим горький
+   [14 letters in 0.0 seconds]
+
+>   василеостровский район
+   [22 letters in 0.0 seconds]
+
+>   нальчик
+   [7 letters in 0.0 seconds]
+
+>   томь.
+   [5 letters in 0.0 seconds]
+
+>   1760
+   [4 letters in 0.0 seconds]
+
+>   днепровский лиман
+   [17 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1907
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   черкесск.
+   [9 letters in 0.0 seconds]
+
+>   нижнекамское водохранилище
+   [26 letters in 0.0 seconds]
+
+>   1584
+   [4 letters in 0.0 seconds]
+
+>   амур
+   [4 letters in 0.0 seconds]
+
+>   1870
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   саратов
+   [7 letters in 0.0 seconds]
+
+>   краснодарское водохранилище
+   [27 letters in 0.0 seconds]
+
+>   1469
+   [4 letters in 0.0 seconds]
+
+>   море лаптевых
+   [13 letters in 0.0 seconds]
+
+>   1953
+   [4 letters in 0.0 seconds]
+
+>   1880
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   оренбург
+   [8 letters in 0.0 seconds]
+
+>   агрызка
+   [7 letters in 0.0 seconds]
+
+>   1663.
+   [5 letters in 0.0 seconds]
+
+>   ашкадар
+   [7 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   михаил булгаков
+   [15 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   саранск
+   [7 letters in 0.0 seconds]
+
+>   дон
+   [3 letters in 0.0 seconds]
+
+>   1252
+   [4 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   1940
+   [4 letters in 0.0 seconds]
+
+>   борис пастернак
+   [15 letters in 0.0 seconds]
+
+>   тверской район
+   [14 letters in 0.0 seconds]
+
+>   киров
+   [5 letters in 0.0 seconds]
+
+>   сура
+   [4 letters in 0.0 seconds]
+
+>   1648
+   [4 letters in 0.0 seconds]
+
+>   нева
+   [4 letters in 0.0 seconds]
+
+>   1996
+   [4 letters in 0.0 seconds]
+
+>   1957
+   [4 letters in 0.0 seconds]
+
+>   казань
+   [6 letters in 0.0 seconds]
+
+>   пермь.
+   [6 letters in 0.0 seconds]
+
+>   бавлы
+   [5 letters in 0.0 seconds]
+
+>   1336
+   [4 letters in 0.0 seconds]
+
+>   оредеж
+   [6 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   ярославль
+   [9 letters in 0.0 seconds]
+
+>   ижевск
+   [6 letters in 0.0 seconds]
+
+>   калитва
+   [7 letters in 0.0 seconds]
+
+>   1626
+   [4 letters in 0.0 seconds]
+
+>   нева.
+   [5 letters in 0.0 seconds]
+
+>   1842.
+   [5 letters in 0.0 seconds]
+
+>   1869
+   [4 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   йошкар-ола
+   [10 letters in 0.0 seconds]
+
+>   ока
+   [3 letters in 0.0 seconds]
+
+>   1501
+   [4 letters in 0.0 seconds]
+
+>   верхний двойник
+   [15 letters in 0.0 seconds]
+
+>   1921
+   [4 letters in 0.0 seconds]
+
+>   1964.
+   [5 letters in 0.0 seconds]
+
+>   ленинский район
+   [15 letters in 0.0 seconds]
+
+>   екатеринбург
+   [12 letters in 0.0 seconds]
+
+>   большой бачат.
+   [14 letters in 0.0 seconds]
+
+>   1640.
+   [5 letters in 0.0 seconds]
+
+>   сясь
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1987
+   [4 letters in 0.0 seconds]
+
+>   владивосток
+   [11 letters in 0.0 seconds]
+
+>   чебоксары
+   [9 letters in 0.0 seconds]
+
+>   онежская губа
+   [13 letters in 0.0 seconds]
+
+>   1255
+   [4 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   1905
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   василеостровский район
+   [22 letters in 0.0 seconds]
+
+>   казань
+   [6 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   1277
+   [4 letters in 0.0 seconds]
+
+>   ижора
+   [5 letters in 0.0 seconds]
+
+>   1984
+   [4 letters in 0.0 seconds]
+
+>   1867
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   пенза.
+   [6 letters in 0.0 seconds]
+
+>   бикин
+   [5 letters in 0.0 seconds]
+
+>   1730
+   [4 letters in 0.0 seconds]
+
+>   оредеж
+   [6 letters in 0.0 seconds]
+
+>   кружилинский
+   [12 letters in 0.0 seconds]
+
+>   1928
+   [4 letters in 0.0 seconds]
+
+>   тверской район
+   [14 letters in 0.0 seconds]
+
+>   ульяновск
+   [9 letters in 0.0 seconds]
+
+>   тихая сосна
+   [11 letters in 0.0 seconds]
+
+>   1830
+   [4 letters in 0.0 seconds]
+
+>   финский залив
+   [13 letters in 0.0 seconds]
+
+>   1938
+   [4 letters in 0.0 seconds]
+
+>   1968
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   уфа
+   [3 letters in 0.0 seconds]
+
+>   уссурийский залив
+   [17 letters in 0.0 seconds]
+
+>   1914
+   [4 letters in 0.0 seconds]
+
+>   оредеж
+   [6 letters in 0.0 seconds]
+
+>   1980
+   [4 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   тверской район
+   [14 letters in 0.0 seconds]
+
+>   челябинск
+   [9 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1931
+   [4 letters in 0.0 seconds]
+
+>   японское море
+   [13 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1843.
+   [5 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   курган
+   [6 letters in 0.0 seconds]
+
+>   водопадная
+   [10 letters in 0.0 seconds]
+
+>   1595
+   [4 letters in 0.0 seconds]
+
+>   вага
+   [4 letters in 0.0 seconds]
+
+>   1895
+   [4 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   пушкин
+   [6 letters in 0.0 seconds]
+
+>   тюмень.
+   [7 letters in 0.0 seconds]
+
+>   тура
+   [4 letters in 0.0 seconds]
+
+>   1666
+   [4 letters in 0.0 seconds]
+
+>   бия
+   [3 letters in 0.0 seconds]
+
+>   1925
+   [4 letters in 0.0 seconds]
+
+>   1830
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   омск
+   [4 letters in 0.0 seconds]
+
+>   галичское озеро
+   [15 letters in 0.0 seconds]
+
+>   1897
+   [4 letters in 0.0 seconds]
+
+>   сухона
+   [6 letters in 0.0 seconds]
+
+>   константиново
+   [13 letters in 0.0 seconds]
+
+>   аркадий гайдар
+   [14 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   новосибирск
+   [11 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   1915
+   [4 letters in 0.0 seconds]
+
+>   северная двина
+   [14 letters in 0.0 seconds]
+
+>   1711
+   [4 letters in 0.0 seconds]
+
+>   1940
+   [4 letters in 0.0 seconds]
+
+>   хамовники
+   [9 letters in 0.0 seconds]
+
+>   томск
+   [5 letters in 0.0 seconds]
+
+>   днепр
+   [5 letters in 0.0 seconds]
+
+>   1882
+   [4 letters in 0.0 seconds]
+
+>   урал
+   [4 letters in 0.0 seconds]
+
+>   1765
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   барнаул
+   [7 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1740
+   [4 letters in 0.0 seconds]
+
+>   сакмара
+   [7 letters in 0.0 seconds]
+
+>   мишанинская
+   [11 letters in 0.0 seconds]
+
+>   александр солженицын
+   [20 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   горно-алтайск
+   [13 letters in 0.0 seconds]
+
+>   таганрогский залив
+   [18 letters in 0.0 seconds]
+
+>   1929
+   [4 letters in 0.0 seconds]
+
+>   дон
+   [3 letters in 0.0 seconds]
+
+>   1949
+   [4 letters in 0.0 seconds]
+
+>   1973
+   [4 letters in 0.0 seconds]
+
+>   тверской район
+   [14 letters in 0.0 seconds]
+
+>   кемерово
+   [8 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   1889
+   [4 letters in 0.0 seconds]
+
+>   байкал
+   [6 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   фёдор достоевский
+   [17 letters in 0.0 seconds]
+
+>   ханты-мансийск
+   [14 letters in 0.0 seconds]
+
+>   ханты-мансийск.
+   [15 letters in 0.0 seconds]
+
+>   зай
+   [3 letters in 0.0 seconds]
+
+>   1679
+   [4 letters in 0.0 seconds]
+
+>   енисейский залив
+   [16 letters in 0.0 seconds]
+
+>   1906
+   [4 letters in 0.0 seconds]
+
+>   1857
+   [4 letters in 0.0 seconds]
+
+>   вологда
+   [7 letters in 0.0 seconds]
+
+>   салехард.
+   [9 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1293
+   [4 letters in 0.0 seconds]
+
+>   янский залив
+   [12 letters in 0.0 seconds]
+
+>   1975
+   [4 letters in 0.0 seconds]
+
+>   иван ефремов
+   [12 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   абакан
+   [6 letters in 0.0 seconds]
+
+>   толучеевка
+   [10 letters in 0.0 seconds]
+
+>   1927
+   [4 letters in 0.0 seconds]
+
+>   восточно-сибирское море
+   [23 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1970
+   [4 letters in 0.0 seconds]
+
+>   таганрог.
+   [9 letters in 0.0 seconds]
+
+>   красноярск
+   [10 letters in 0.0 seconds]
+
+>   кандалакшский залив
+   [19 letters in 0.0 seconds]
+
+>   1929
+   [4 letters in 0.0 seconds]
+
+>   онежская губа
+   [13 letters in 0.0 seconds]
+
+>   1880
+   [4 letters in 0.0 seconds]
+
+>   владимир маяковский
+   [19 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   иркутск.
+   [8 letters in 0.0 seconds]
+
+>   каспийское море
+   [15 letters in 0.0 seconds]
+
+>   1918
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1921
+   [4 letters in 0.0 seconds]
+
+>   1929
+   [4 letters in 0.0 seconds]
+
+>   лермонтово
+   [10 letters in 0.0 seconds]
+
+>   якутск
+   [6 letters in 0.0 seconds]
+
+>   ока
+   [3 letters in 0.0 seconds]
+
+>   1892
+   [4 letters in 0.0 seconds]
+
+>   мезенская губа.
+   [15 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   пётр ершов
+   [10 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   улан-удэ
+   [8 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1492
+   [4 letters in 0.0 seconds]
+
+>   каспийское море
+   [15 letters in 0.0 seconds]
+
+>   1857
+   [4 letters in 0.0 seconds]
+
+>   1834
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   чита.
+   [5 letters in 0.0 seconds]
+
+>   берёзовая
+   [9 letters in 0.0 seconds]
+
+>   1384.
+   [5 letters in 0.0 seconds]
+
+>   левая хетта
+   [11 letters in 0.0 seconds]
+
+>   1935
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   чусовской муниципальный округ
+   [29 letters in 0.0 seconds]
+
+>   благовещенск
+   [12 letters in 0.0 seconds]
+
+>   анива.
+   [6 letters in 0.0 seconds]
+
+>   1931
+   [4 letters in 0.0 seconds]
+
+>   карское море
+   [12 letters in 0.0 seconds]
+
+>   ижевское.
+   [9 letters in 0.0 seconds]
+
+>   1899
+   [4 letters in 0.0 seconds]
+
+>   шёлтозеро
+   [9 letters in 0.0 seconds]
+
+>   биробиджан.
+   [11 letters in 0.0 seconds]
+
+>   банька
+   [6 letters in 0.0 seconds]
+
+>   1702
+   [4 letters in 0.0 seconds]
+
+>   тазовская губа
+   [14 letters in 0.0 seconds]
+
+>   1866
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   катынь
+   [6 letters in 0.0 seconds]
+
+>   хабаровск
+   [9 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   1710
+   [4 letters in 0.0 seconds]
+
+>   карское море
+   [12 letters in 0.0 seconds]
+
+>   1944.
+   [5 letters in 0.0 seconds]
+
+>   1889
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   южно-сахалинск
+   [14 letters in 0.0 seconds]
+
+>   омь.
+   [4 letters in 0.0 seconds]
+
+>   1704
+   [4 letters in 0.0 seconds]
+
+>   пясинский залив
+   [15 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   центральный район
+   [17 letters in 0.0 seconds]
+
+>   петропавловск-камчатский
+   [24 letters in 0.0 seconds]
+
+>   курилка
+   [7 letters in 0.0 seconds]
+
+>   1936
+   [4 letters in 0.0 seconds]
+
+>   таймырский залив
+   [16 letters in 0.0 seconds]
+
+>   1792
+   [4 letters in 0.0 seconds]
+
+>   1886.
+   [5 letters in 0.0 seconds]
+
+>   останкинский район
+   [18 letters in 0.0 seconds]
+
+>   магадан
+   [7 letters in 0.0 seconds]
+
+>   уссури
+   [6 letters in 0.0 seconds]
+
+>   1887.
+   [5 letters in 0.0 seconds]
+
+>   хатангский залив
+   [16 letters in 0.0 seconds]
+
+>   1856
+   [4 letters in 0.0 seconds]
+
+>   2002
+   [4 letters in 0.0 seconds]
+
+>   советский район
+   [15 letters in 0.0 seconds]
+
+>   анадырь
+   [7 letters in 0.0 seconds]
+
+>   чёрное море
+   [11 letters in 0.0 seconds]
+
+>   1936
+   [4 letters in 0.0 seconds]
+
+>   море лаптевых
+   [13 letters in 0.0 seconds]
+
+>   нижний новгород
+   [15 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   кызыл
+   [5 letters in 0.0 seconds]
+
+>   мезень.
+   [7 letters in 0.0 seconds]
+
+>   1934
+   [4 letters in 0.0 seconds]
+
+>   восточно-сибирское море
+   [23 letters in 0.0 seconds]
+
+>   1892
+   [4 letters in 0.0 seconds]
+
+>   1842
+   [4 letters in 0.0 seconds]
+
+>   тальцы
+   [6 letters in 0.0 seconds]
+
+>   1927
+   [4 letters in 0.0 seconds]
+
+>   восточно-сибирское море
+   [23 letters in 0.0 seconds]
+
+>   1941
+   [4 letters in 0.0 seconds]
+
+>   людвик лазарь заменгоф
+   [22 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1777
+   [4 letters in 0.0 seconds]
+
+>   азовское море
+   [13 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1905
+   [4 letters in 0.0 seconds]
+
+>   ялта
+   [4 letters in 0.0 seconds]
+
+>   1708
+   [4 letters in 0.0 seconds]
+
+>   каспийское море
+   [15 letters in 0.0 seconds]
+
+>   1844
+   [4 letters in 0.0 seconds]
+
+>   николай гоголь.
+   [15 letters in 0.0 seconds]
+
+>   ивановка
+   [8 letters in 0.0 seconds]
+
+>   1958
+   [4 letters in 0.0 seconds]
+
+>   северная двина.
+   [15 letters in 0.0 seconds]
+
+>   1908
+   [4 letters in 0.0 seconds]
+
+>   1835
+   [4 letters in 0.0 seconds]
+
+>   алупка
+   [6 letters in 0.0 seconds]
+
+>   1383
+   [4 letters in 0.0 seconds]
+
+>   тобол
+   [5 letters in 0.0 seconds]
+
+>   тихвин.
+   [7 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   1500
+   [4 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   1873
+   [4 letters in 0.0 seconds]
+
+>   1836
+   [4 letters in 0.0 seconds]
+
+>   московская область
+   [18 letters in 0.0 seconds]
+
+>   1323
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   1943
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   большие вязёмы
+   [14 letters in 0.0 seconds]
+
+>   1024
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   семёново
+   [8 letters in 0.0 seconds]
+
+>   1901
+   [4 letters in 0.0 seconds]
+
+>   домодедово
+   [10 letters in 0.0 seconds]
+
+>   1781
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   1833
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   петроградский район
+   [19 letters in 0.0 seconds]
+
+>   1556
+   [4 letters in 0.0 seconds]
+
+>   нёмда
+   [5 letters in 0.0 seconds]
+
+>   1887.
+   [5 letters in 0.0 seconds]
+
+>   1904
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1838
+   [4 letters in 0.0 seconds]
+
+>   парат.
+   [6 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   владимир ильич ленин.
+   [21 letters in 0.0 seconds]
+
+>   королёв
+   [7 letters in 0.0 seconds]
+
+>   1863
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   1850
+   [4 letters in 0.0 seconds]
+
+>   1918
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1839
+   [4 letters in 0.0 seconds]
+
+>   богана
+   [6 letters in 0.0 seconds]
+
+>   1891
+   [4 letters in 0.0 seconds]
+
+>   иван ефремов
+   [12 letters in 0.0 seconds]
+
+>   ярославль
+   [9 letters in 0.0 seconds]
+
+>   1862
+   [4 letters in 0.0 seconds]
+
+>   иловай
+   [6 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1957
+   [4 letters in 0.0 seconds]
+
+>   самара.
+   [7 letters in 0.0 seconds]
+
+>   1831
+   [4 letters in 0.0 seconds]
+
+>   нёмда.
+   [6 letters in 0.0 seconds]
+
+>   1769
+   [4 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   серпухов
+   [8 letters in 0.0 seconds]
+
+>   1875
+   [4 letters in 0.0 seconds]
+
+>   большая ира
+   [11 letters in 0.0 seconds]
+
+>   1844
+   [4 letters in 0.0 seconds]
+
+>   1903
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1794
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   александр солженицын
+   [20 letters in 0.0 seconds]
+
+>   замоскворечье.
+   [14 letters in 0.0 seconds]
+
+>   1874
+   [4 letters in 0.0 seconds]
+
+>   керженец
+   [8 letters in 0.0 seconds]
+
+>   1839
+   [4 letters in 0.0 seconds]
+
+>   1968
+   [4 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   1862
+   [4 letters in 0.0 seconds]
+
+>   вишнёвка.
+   [9 letters in 0.0 seconds]
+
+>   1881.
+   [5 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   московская губерния
+   [19 letters in 0.0 seconds]
+
+>   1853
+   [4 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   карево
+   [6 letters in 0.0 seconds]
+
+>   1848
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1841.
+   [5 letters in 0.0 seconds]
+
+>   вишнёвка.
+   [9 letters in 0.0 seconds]
+
+>   1916
+   [4 letters in 0.0 seconds]
+
+>   владимир ильич ленин
+   [20 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1732
+   [4 letters in 0.0 seconds]
+
+>   ярославка
+   [9 letters in 0.0 seconds]
+
+>   2009
+   [4 letters in 0.0 seconds]
+
+>   даниил андреев
+   [14 letters in 0.0 seconds]
+
+>   ульяновск
+   [9 letters in 0.0 seconds]
+
+>   1627
+   [4 letters in 0.0 seconds]
+
+>   мокрая панда.
+   [13 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1991
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1314
+   [4 letters in 0.0 seconds]
+
+>   рагули
+   [6 letters in 0.0 seconds]
+
+>   1803
+   [4 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   мещанский район
+   [15 letters in 0.0 seconds]
+
+>   1460
+   [4 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   1873
+   [4 letters in 0.0 seconds]
+
+>   1835
+   [4 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   1819
+   [4 letters in 0.0 seconds]
+
+>   мокрая панда.
+   [13 letters in 0.0 seconds]
+
+>   овстуг.
+   [7 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   1838
+   [4 letters in 0.0 seconds]
+
+>   нёмда
+   [5 letters in 0.0 seconds]
+
+>   1766
+   [4 letters in 0.0 seconds]
+
+>   1855
+   [4 letters in 0.0 seconds]
+
+>   абрамцево
+   [9 letters in 0.0 seconds]
+
+>   1953
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   1826
+   [4 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   александровское
+   [15 letters in 0.0 seconds]
+
+>   1763
+   [4 letters in 0.0 seconds]
+
+>   шумика
+   [6 letters in 0.0 seconds]
+
+>   карамзинка
+   [10 letters in 0.0 seconds]
+
+>   1842.
+   [5 letters in 0.0 seconds]
+
+>   барнаул.
+   [8 letters in 0.0 seconds]
+
+>   1824
+   [4 letters in 0.0 seconds]
+
+>   ира
+   [3 letters in 0.0 seconds]
+
+>   1962
+   [4 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   благовещенск
+   [12 letters in 0.0 seconds]
+
+>   1074
+   [4 letters in 0.0 seconds]
+
+>   ирка
+   [4 letters in 0.0 seconds]
+
+>   1990
+   [4 letters in 0.0 seconds]
+
+>   1886
+   [4 letters in 0.0 seconds]
+
+>   артёмовский
+   [11 letters in 0.0 seconds]
+
+>   1698
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   архангельск
+   [11 letters in 0.0 seconds]
+
+>   1653.
+   [5 letters in 0.0 seconds]
+
+>   лесной воронеж
+   [14 letters in 0.0 seconds]
+
+>   1812
+   [4 letters in 0.0 seconds]
+
+>   1896
+   [4 letters in 0.0 seconds]
+
+>   анапа.
+   [6 letters in 0.0 seconds]
+
+>   1747
+   [4 letters in 0.0 seconds]
+
+>   чембар
+   [6 letters in 0.0 seconds]
+
+>   1870
+   [4 letters in 0.0 seconds]
+
+>   1993
+   [4 letters in 0.0 seconds]
+
+>   астрахань.
+   [10 letters in 0.0 seconds]
+
+>   1956
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   ахты
+   [4 letters in 0.0 seconds]
+
+>   1713
+   [4 letters in 0.0 seconds]
+
+>   семёновский ручей
+   [17 letters in 0.0 seconds]
+
+>   1981
+   [4 letters in 0.0 seconds]
+
+>   1864
+   [4 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   1958
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   усть-джегута
+   [12 letters in 0.0 seconds]
+
+>   владимир ильич ленин
+   [20 letters in 0.0 seconds]
+
+>   бахчисарай
+   [10 letters in 0.0 seconds]
+
+>   1647.
+   [5 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   1966
+   [4 letters in 0.0 seconds]
+
+>   1909
+   [4 letters in 0.0 seconds]
+
+>   белгород
+   [8 letters in 0.0 seconds]
+
+>   1637
+   [4 letters in 0.0 seconds]
+
+>   становая ряса.
+   [14 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   дмитрий емец.
+   [13 letters in 0.0 seconds]
+
+>   бийск
+   [5 letters in 0.0 seconds]
+
+>   1776
+   [4 letters in 0.0 seconds]
+
+>   кудьма
+   [6 letters in 0.0 seconds]
+
+>   1872
+   [4 letters in 0.0 seconds]
+
+>   владимир обручев
+   [16 letters in 0.0 seconds]
+
+>   алексеевский район
+   [18 letters in 0.0 seconds]
+
+>   1968
+   [4 letters in 0.0 seconds]
+
+>   раменка
+   [7 letters in 0.0 seconds]
+
+>   1915
+   [4 letters in 0.0 seconds]
+
+>   1924
+   [4 letters in 0.0 seconds]
+
+>   болхов
+   [6 letters in 0.0 seconds]
+
+>   1650
+   [4 letters in 0.0 seconds]
+
+>   керженец
+   [8 letters in 0.0 seconds]
+
+>   москва.
+   [7 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   посёлок бородинского музея
+   [26 letters in 0.0 seconds]
+
+>   1664
+   [4 letters in 0.0 seconds]
+
+>   кашинка
+   [7 letters in 0.0 seconds]
+
+>   1956
+   [4 letters in 0.0 seconds]
+
+>   1897
+   [4 letters in 0.0 seconds]
+
+>   веськово
+   [8 letters in 0.0 seconds]
+
+>   1606
+   [4 letters in 0.0 seconds]
+
+>   горьковское водохранилище
+   [25 letters in 0.0 seconds]
+
+>   гагарин
+   [7 letters in 0.0 seconds]
+
+>   иван тургенев
+   [13 letters in 0.0 seconds]
+
+>   севастополь.
+   [12 letters in 0.0 seconds]
+
+>   1850
+   [4 letters in 0.0 seconds]
+
+>   сеньдега
+   [8 letters in 0.0 seconds]
+
+>   1903
+   [4 letters in 0.0 seconds]
+
+>   1852
+   [4 letters in 0.0 seconds]
+
+>   брянск
+   [6 letters in 0.0 seconds]
+
+>   1646
+   [4 letters in 0.0 seconds]
+
+>   мамокша
+   [7 letters in 0.0 seconds]
+
+>   1987.
+   [5 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   брянск
+   [6 letters in 0.0 seconds]
+
+>   1618
+   [4 letters in 0.0 seconds]
+
+>   лехта
+   [5 letters in 0.0 seconds]
+
+>   тамбов.
+   [7 letters in 0.0 seconds]
+
+>   1911
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1626
+   [4 letters in 0.0 seconds]
+
+>   мера
+   [4 letters in 0.0 seconds]
+
+>   1917
+   [4 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   валуйки
+   [7 letters in 0.0 seconds]
+
+>   1929
+   [4 letters in 0.0 seconds]
+
+>   мамокша
+   [7 letters in 0.0 seconds]
+
+>   2003
+   [4 letters in 0.0 seconds]
+
+>   1836
+   [4 letters in 0.0 seconds]
+
+>   ростов-на-дону
+   [14 letters in 0.0 seconds]
+
+>   1722
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   иван гончаров
+   [13 letters in 0.0 seconds]
+
+>   басманный район
+   [15 letters in 0.0 seconds]
+
+>   1951
+   [4 letters in 0.0 seconds]
+
+>   могза
+   [5 letters in 0.0 seconds]
+
+>   1888
+   [4 letters in 0.0 seconds]
+
+>   1859
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1135
+   [4 letters in 0.0 seconds]
+
+>   большая кокшага
+   [15 letters in 0.0 seconds]
+
+>   1938
+   [4 letters in 0.0 seconds]
+
+>   юрий олеша
+   [10 letters in 0.0 seconds]
+
+>   великий новгород.
+   [17 letters in 0.0 seconds]
+
+>   1239
+   [4 letters in 0.0 seconds]
+
+>   малая пудица.
+   [13 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1928
+   [4 letters in 0.0 seconds]
+
+>   владивосток
+   [11 letters in 0.0 seconds]
+
+>   1154
+   [4 letters in 0.0 seconds]
+
+>   корожечна
+   [9 letters in 0.0 seconds]
+
+>   1870
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   владимирская область
+   [20 letters in 0.0 seconds]
+
+>   1146
+   [4 letters in 0.0 seconds]
+
+>   яхрома
+   [6 letters in 0.0 seconds]
+
+>   1938
+   [4 letters in 0.0 seconds]
+
+>   1886
+   [4 letters in 0.0 seconds]
+
+>   краснодарский край
+   [18 letters in 0.0 seconds]
+
+>   1150
+   [4 letters in 0.0 seconds]
+
+>   угличское водохранилище
+   [23 letters in 0.0 seconds]
+
+>   наровчат
+   [8 letters in 0.0 seconds]
+
+>   александр пушкин.
+   [17 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1708
+   [4 letters in 0.0 seconds]
+
+>   ока
+   [3 letters in 0.0 seconds]
+
+>   1804
+   [4 letters in 0.0 seconds]
+
+>   1831
+   [4 letters in 0.0 seconds]
+
+>   мурманск
+   [8 letters in 0.0 seconds]
+
+>   1157
+   [4 letters in 0.0 seconds]
+
+>   волгоградское водохранилище
+   [27 letters in 0.0 seconds]
+
+>   1857
+   [4 letters in 0.0 seconds]
+
+>   дмитрий глуховский
+   [18 letters in 0.0 seconds]
+
+>   вологда
+   [7 letters in 0.0 seconds]
+
+>   1969
+   [4 letters in 0.0 seconds]
+
+>   черёмуха
+   [8 letters in 0.0 seconds]
+
+>   новоспасское.
+   [13 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   вологда
+   [7 letters in 0.0 seconds]
+
+>   1913
+   [4 letters in 0.0 seconds]
+
+>   пукша
+   [5 letters in 0.0 seconds]
+
+>   1828
+   [4 letters in 0.0 seconds]
+
+>   1835
+   [4 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   1709
+   [4 letters in 0.0 seconds]
+
+>   петьялка
+   [8 letters in 0.0 seconds]
+
+>   1889
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   владивосток
+   [11 letters in 0.0 seconds]
+
+>   1646
+   [4 letters in 0.0 seconds]
+
+>   угличское водохранилище
+   [23 letters in 0.0 seconds]
+
+>   саратов.
+   [8 letters in 0.0 seconds]
+
+>   1894
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1762
+   [4 letters in 0.0 seconds]
+
+>   шуя
+   [3 letters in 0.0 seconds]
+
+>   1933
+   [4 letters in 0.0 seconds]
+
+>   михаил лермонтов
+   [16 letters in 0.0 seconds]
+
+>   тверской район.
+   [15 letters in 0.0 seconds]
+
+>   1067
+   [4 letters in 0.0 seconds]
+
+>   ировка.
+   [7 letters in 0.0 seconds]
+
+>   2017
+   [4 letters in 0.0 seconds]
+
+>   1852.
+   [5 letters in 0.0 seconds]
+
+>   киров
+   [5 letters in 0.0 seconds]
+
+>   1964
+   [4 letters in 0.0 seconds]
+
+>   волгоградское водохранилище
+   [27 letters in 0.0 seconds]
+
+>   зима
+   [4 letters in 0.0 seconds]
+
+>   лев толстой
+   [11 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1570
+   [4 letters in 0.0 seconds]
+
+>   костромское водохранилище
+   [25 letters in 0.0 seconds]
+
+>   1856
+   [4 letters in 0.0 seconds]
+
+>   1854
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1850
+   [4 letters in 0.0 seconds]
+
+>   осья
+   [4 letters in 0.0 seconds]
+
+>   1918
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   судак
+   [5 letters in 0.0 seconds]
+
+>   1639
+   [4 letters in 0.0 seconds]
+
+>   черёмуха.
+   [9 letters in 0.0 seconds]
+
+>   гудаловка
+   [9 letters in 0.0 seconds]
+
+>   1877
+   [4 letters in 0.0 seconds]
+
+>   якиманка
+   [8 letters in 0.0 seconds]
+
+>   1552
+   [4 letters in 0.0 seconds]
+
+>   сестра
+   [6 letters in 0.0 seconds]
+
+>   1743.
+   [5 letters in 0.0 seconds]
+
+>   василий гроссман
+   [16 letters in 0.0 seconds]
+
+>   центральный административный округ.
+   [35 letters in 0.0 seconds]
+
+>   1924
+   [4 letters in 0.0 seconds]
+
+>   покша
+   [5 letters in 0.0 seconds]
+
+>   1816
+   [4 letters in 0.0 seconds]
+
+>   1980
+   [4 letters in 0.0 seconds]
+
+>   1301.
+   [5 letters in 0.0 seconds]
+
+>   шава
+   [4 letters in 0.0 seconds]
+
+>   сокуры
+   [6 letters in 0.0 seconds]
+
+>   сергей лукьяненко
+   [17 letters in 0.0 seconds]
+
+>   1783
+   [4 letters in 0.0 seconds]
+
+>   могза
+   [5 letters in 0.0 seconds]
+
+>   1888
+   [4 letters in 0.0 seconds]
+
+>   1998
+   [4 letters in 0.0 seconds]
+
+>   1869
+   [4 letters in 0.0 seconds]
+
+>   южный козленец
+   [14 letters in 0.0 seconds]
+
+>   1989
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   1685
+   [4 letters in 0.0 seconds]
+
+>   шоша
+   [4 letters in 0.0 seconds]
+
+>   тюмень
+   [6 letters in 0.0 seconds]
+
+>   1889
+   [4 letters in 0.0 seconds]
+
+>   1348
+   [4 letters in 0.0 seconds]
+
+>   безенчук
+   [8 letters in 0.0 seconds]
+
+>   1874
+   [4 letters in 0.0 seconds]
+
+>   владимир набоков
+   [16 letters in 0.0 seconds]
+
+>   1899
+   [4 letters in 0.0 seconds]
+
+>   рыбинское водохранилище
+   [23 letters in 0.0 seconds]
+
+>   1947
+   [4 letters in 0.0 seconds]
+
+>   1930
+   [4 letters in 0.0 seconds]
+
+>   1740
+   [4 letters in 0.0 seconds]
+
+>   урдома
+   [6 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   александр солженицын
+   [20 letters in 0.0 seconds]
+
+>   1958
+   [4 letters in 0.0 seconds]
+
+>   борисовка
+   [9 letters in 0.0 seconds]
+
+>   1962
+   [4 letters in 0.0 seconds]
+
+>   1967
+   [4 letters in 0.0 seconds]
+
+>   1948
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   иван тургенев
+   [13 letters in 0.0 seconds]
+
+>   1907
+   [4 letters in 0.0 seconds]
+
+>   медведица
+   [9 letters in 0.0 seconds]
+
+>   1863
+   [4 letters in 0.0 seconds]
+
+>   1856
+   [4 letters in 0.0 seconds]
+
+>   1897
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   1945
+   [4 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   1886
+   [4 letters in 0.0 seconds]
+
+>   большая кокшага
+   [15 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1923
+   [4 letters in 0.0 seconds]
+
+>   1926
+   [4 letters in 0.0 seconds]
+
+>   горьковское водохранилище
+   [25 letters in 0.0 seconds]
+
+>   1871
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   красноярск
+   [10 letters in 0.0 seconds]
+
+>   1932
+   [4 letters in 0.0 seconds]
+
+>   1336
+   [4 letters in 0.0 seconds]
+
+>   карское море
+   [12 letters in 0.0 seconds]
+
+>   южный козленец
+   [14 letters in 0.0 seconds]
+
+>   1880
+   [4 letters in 0.0 seconds]
+
+>   угличское водохранилище
+   [23 letters in 0.0 seconds]
+
+>   северский донец
+   [15 letters in 0.0 seconds]
+
+>   абакан
+   [6 letters in 0.0 seconds]
+
+>   1867
+   [4 letters in 0.0 seconds]
+
+>   1590
+   [4 letters in 0.0 seconds]
+
+>   1864
+   [4 letters in 0.0 seconds]
+
+>   1135
+   [4 letters in 0.0 seconds]
+
+>   1857
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   калександрая пушов.
+   [19 letters in 0.0 seconds]
+
+>   черкесск
+   [8 letters in 0.0 seconds]
+
+>   1833
+   [4 letters in 0.0 seconds]
+
+>   1907
+   [4 letters in 0.0 seconds]
+
+>   ворона
+   [6 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   петьялка
+   [8 letters in 0.0 seconds]
+
+>   янский залив
+   [12 letters in 0.0 seconds]
+
+>   невская губа
+   [12 letters in 0.0 seconds]
+
+>   1951
+   [4 letters in 0.0 seconds]
+
+>   1913
+   [4 letters in 0.0 seconds]
+
+>   сиверский
+   [9 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   усть-уджегута
+   [13 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   1146
+   [4 letters in 0.0 seconds]
+
+>   1766
+   [4 letters in 0.0 seconds]
+
+>   1934
+   [4 letters in 0.0 seconds]
+
+>   безенчук
+   [8 letters in 0.0 seconds]
+
+>   кемерово
+   [8 letters in 0.0 seconds]
+
+>   улан-удэ
+   [8 letters in 0.0 seconds]
+
+>   1846
+   [4 letters in 0.0 seconds]
+
+>   1947
+   [4 letters in 0.0 seconds]
+
+>   ладожское озеро
+   [15 letters in 0.0 seconds]
+
+>   амур
+   [4 letters in 0.0 seconds]
+
+>   урал
+   [4 letters in 0.0 seconds]
+
+>   1862.
+   [5 letters in 0.0 seconds]
+
+>   сухона
+   [6 letters in 0.0 seconds]
+
+>   ценей
+   [5 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   1024
+   [4 letters in 0.0 seconds]
+
+>   катынь
+   [6 letters in 0.0 seconds]
+
+>   василеостровский район.
+   [23 letters in 0.0 seconds]
+
+>   анива.
+   [6 letters in 0.0 seconds]
+
+>   преголя
+   [7 letters in 0.0 seconds]
+
+>   павловск
+   [8 letters in 0.0 seconds]
+
+>   мурманск
+   [8 letters in 0.0 seconds]
+
+>   воронеж
+   [7 letters in 0.0 seconds]
+
+>   1887.
+   [5 letters in 0.0 seconds]
+
+>   1931
+   [4 letters in 0.0 seconds]
+
+>   1903.
+   [5 letters in 0.0 seconds]
+
+>   бильянск.
+   [9 letters in 0.0 seconds]
+
+>   ахты
+   [4 letters in 0.0 seconds]
+
+>   иртышевкий рай
+   [14 letters in 0.0 seconds]
+
+>   южно-сахалинск
+   [14 letters in 0.0 seconds]
+
+>   ульяновск
+   [9 letters in 0.0 seconds]
+
+>   малая пудица
+   [12 letters in 0.0 seconds]
+
+>   1639
+   [4 letters in 0.0 seconds]
+
+>   ленинский район
+   [15 letters in 0.0 seconds]
+
+>   пётр ершов
+   [10 letters in 0.0 seconds]
+
+>   1873
+   [4 letters in 0.0 seconds]
+
+>   павел дуров
+   [11 letters in 0.0 seconds]
+
+>   1868
+   [4 letters in 0.0 seconds]
+
+>   астрахань
+   [9 letters in 0.0 seconds]
+
+>   тамбов
+   [6 letters in 0.0 seconds]
+
+>   1818
+   [4 letters in 0.0 seconds]
+
+>   сан1951
+   [7 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   1835
+   [4 letters in 0.0 seconds]
+
+>   1371
+   [4 letters in 0.0 seconds]
+
+>   невская губа
+   [12 letters in 0.0 seconds]
+
+>   каспийское море
+   [15 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   николай гоголь
+   [14 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   северная двина.
+   [15 letters in 0.0 seconds]
+
+>   владимир ильич ленин
+   [20 letters in 0.0 seconds]
+
+>   1760
+   [4 letters in 0.0 seconds]
+
+>   тазовская губа
+   [14 letters in 0.0 seconds]
+
+>   кировский район.
+   [16 letters in 0.0 seconds]
+
+>   северная двина.
+   [15 letters in 0.0 seconds]
+
+>   1924
+   [4 letters in 0.0 seconds]
+
+>   1646
+   [4 letters in 0.0 seconds]
+
+>   1897
+   [4 letters in 0.0 seconds]
+
+>   1570
+   [4 letters in 0.0 seconds]
+
+>   калининград.
+   [12 letters in 0.0 seconds]
+
+>   иртыш
+   [5 letters in 0.0 seconds]
+
+>   1855
+   [4 letters in 0.0 seconds]
+
+>   1890
+   [4 letters in 0.0 seconds]
+
+>   рязань
+   [6 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   зай
+   [3 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1703
+   [4 letters in 0.0 seconds]
+
+>   1949
+   [4 letters in 0.0 seconds]
+
+>   царицыно
+   [8 letters in 0.0 seconds]
+
+>   1866
+   [4 letters in 0.0 seconds]
+
+>   владимир обручев.
+   [17 letters in 0.0 seconds]
+
+>   сакмара
+   [7 letters in 0.0 seconds]
+
+>   1938
+   [4 letters in 0.0 seconds]
+
+>   1904
+   [4 letters in 0.0 seconds]
+
+>   1818
+   [4 letters in 0.0 seconds]
+
+>   архангельск
+   [11 letters in 0.0 seconds]
+
+>   1704
+   [4 letters in 0.0 seconds]
+
+>   1836
+   [4 letters in 0.0 seconds]
+
+>   черёмуха.
+   [9 letters in 0.0 seconds]
+
+>   уссури
+   [6 letters in 0.0 seconds]
+
+>   1875
+   [4 letters in 0.0 seconds]
+
+>   1945
+   [4 letters in 0.0 seconds]
+
+>   1936
+   [4 letters in 0.0 seconds]
+
+>   бикин
+   [5 letters in 0.0 seconds]
+
+>   1896
+   [4 letters in 0.0 seconds]
+
+>   1648
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   хатангский залив
+   [16 letters in 0.0 seconds]
+
+>   большая икокшага
+   [16 letters in 0.0 seconds]
+
+>   1556
+   [4 letters in 0.0 seconds]
+
+>   1990
+   [4 letters in 0.0 seconds]
+
+>   орёл.
+   [5 letters in 0.0 seconds]
+
+>   1889
+   [4 letters in 0.0 seconds]
+
+>   могза
+   [5 letters in 0.0 seconds]
+
+>   1877
+   [4 letters in 0.0 seconds]
+
+>   1869
+   [4 letters in 0.0 seconds]
+
+>   михаил булгаков
+   [15 letters in 0.0 seconds]
+
+>   1830
+   [4 letters in 0.0 seconds]
+
+>   лужская губа
+   [12 letters in 0.0 seconds]
+
+>   1929
+   [4 letters in 0.0 seconds]
+
+>   фёдор достоевский.
+   [18 letters in 0.0 seconds]
+
+>   450
+   [3 letters in 0.0 seconds]
+
+>   1301.
+   [5 letters in 0.0 seconds]
+
+>   антон чехов
+   [11 letters in 0.0 seconds]
+
+>   1663
+   [4 letters in 0.0 seconds]
+
+>   александр солженицын.
+   [21 letters in 0.0 seconds]
+
+>   серпухов
+   [8 letters in 0.0 seconds]
+
+>   фёдор достоевский
+   [17 letters in 0.0 seconds]
+
+>   1747
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   оредеж
+   [6 letters in 0.0 seconds]
+
+>   1909
+   [4 letters in 0.0 seconds]
+
+>   1863
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1824
+   [4 letters in 0.0 seconds]
+
+>   1998
+   [4 letters in 0.0 seconds]
+
+>   1646
+   [4 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   1897
+   [4 letters in 0.0 seconds]
+
+>   1967
+   [4 letters in 0.0 seconds]
+
+>   1826
+   [4 letters in 0.0 seconds]
+
+>   санкт-петербург
+   [15 letters in 0.0 seconds]
+
+>   1915
+   [4 letters in 0.0 seconds]
+
+>   1926
+   [4 letters in 0.0 seconds]
+
+>   1936
+   [4 letters in 0.0 seconds]
+
+>   ирка
+   [4 letters in 0.0 seconds]
+
+>   балаклава.
+   [10 letters in 0.0 seconds]
+
+>   москва
+   [6 letters in 0.0 seconds]
+
+>   болавль
+   [7 letters in 0.0 seconds]
+
+>   иван гончаров
+   [13 letters in 0.0 seconds]
+
+>   кобрино.
+   [8 letters in 0.0 seconds]
+
+>   1860
+   [4 letters in 0.0 seconds]
+
+>   банька
+   [6 letters in 0.0 seconds]
+
+>   дон
+   [3 letters in 0.0 seconds]
+
+>   аркадий гайдар
+   [14 letters in 0.0 seconds]
+
+>   александр солженицын.
+   [21 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   бия
+   [3 letters in 0.0 seconds]
+
+>   кама
+   [4 letters in 0.0 seconds]
+
+>   море лаптевых
+   [13 letters in 0.0 seconds]
+
+>   астрахань
+   [9 letters in 0.0 seconds]
+
+>   элиста
+   [6 letters in 0.0 seconds]
+
+>   1995
+   [4 letters in 0.0 seconds]
+
+>   ура
+   [3 letters in 0.0 seconds]
+
+>   йошкар-ола
+   [10 letters in 0.0 seconds]
+
+>   1931
+   [4 letters in 0.0 seconds]
+
+>   дмитрий глуховский
+   [18 letters in 0.0 seconds]
+
+>   1971
+   [4 letters in 0.0 seconds]
+
+>   мики
+   [4 letters in 0.0 seconds]
+
+>   1873
+   [4 letters in 0.0 seconds]
+
+>   1930
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   липецк
+   [6 letters in 0.0 seconds]
+
+>   брянск
+   [6 letters in 0.0 seconds]
+
+>   1821
+   [4 letters in 0.0 seconds]
+
+>   1856
+   [4 letters in 0.0 seconds]
+
+>   калининград
+   [11 letters in 0.0 seconds]
+
+>   1943
+   [4 letters in 0.0 seconds]
+
+>   ставрополь.
+   [11 letters in 0.0 seconds]
+
+>   1886
+   [4 letters in 0.0 seconds]
+
+>   1853
+   [4 letters in 0.0 seconds]
+
+>   волга
+   [5 letters in 0.0 seconds]
+
+>   яхрома
+   [6 letters in 0.0 seconds]
+
+>   1862
+   [4 letters in 0.0 seconds]
+
+>   1636
+   [4 letters in 0.0 seconds]
+
+>   владимир ильич ленин.
+   [21 letters in 0.0 seconds]
+
+>   тверский район
+   [14 letters in 0.0 seconds]
+
+> До свидания!

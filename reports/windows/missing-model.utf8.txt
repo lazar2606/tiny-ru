@@ -1,0 +1,4 @@
+Tiny-RU 2.1r3 - русская нейросеть для Windows x64.
+Загрузка TINY.BIN ...
+
+TINY: Не найден TINY.BIN. Положите его рядом с TINYWIN.EXE.

@@ -1,0 +1,50 @@
+{
+  "seed": 42,
+  "facts": 1000,
+  "train": 25890,
+  "new_train": 4014,
+  "categories": {
+    "россия: государство": 19,
+    "россия: праздники": 6,
+    "россия: символы": 4,
+    "россия: космос": 10,
+    "россия: регионы": 80,
+    "россия: география": 80,
+    "россия: города": 163,
+    "россия: реки": 163,
+    "россия: биографии": 163,
+    "россия: литература": 163,
+    "россия: музеи": 149
+  },
+  "source_pool": {
+    "россия: государство": 19,
+    "россия: праздники": 6,
+    "россия: символы": 4,
+    "россия: космос": 10,
+    "россия: регионы": 80,
+    "россия: география": 80,
+    "россия: города": 541,
+    "россия: реки": 239,
+    "россия: биографии": 903,
+    "россия: литература": 777,
+    "россия: музеи": 149
+  },
+  "rejected": {
+    "ambiguous_question": 49,
+    "Question too long": 38
+  },
+  "sha256": {
+    "facts": "eddf2a2c947d7f112668822b4d7f907e879d44e13345a1426050f7f88f2437b9",
+    "train": "ddc643d8611d7270970fc411eb40073b13981fcfabe1d93a268198f3a70930a3",
+    "test": "477dec0f289760857cc415a6ea163e55629a71bfa9f3744c7096b31ea129b873",
+    "validation": "fcd83132b77438fcae8e20a11de2d0789c01a53f2c1d215d3d67b0ef31c8cb51",
+    "familiar": "6528e48eea15a8a03f1185c243329527df14da9b1477a4d6d024f24e82bfd4a4",
+    "control": "0fa6daf48bc88ec112691d2f221eb08712d0a099252c0812204a86d1cc7bb00b",
+    "smoke": "dba0c7468b4e736f7946108e6bed59ffc58390eaf8cc5872be17e4edbc521b41"
+  },
+  "vocab_sha256": "1adf7e87dd45be438042dfb3ed4c52c99730e3e26504a24f307240c85aa68334",
+  "checked_on": "2026-11-24",
+  "source_license": "Wikidata structured data CC0-1.0; original factual questions MIT",
+  "scope": "1000 subject/property facts; variants and arithmetic replay are not counted as new facts",
+  "evaluation": "Known facts, held-out wording; not unseen factual knowledge. Structured imports are not a full independent audit."
+}

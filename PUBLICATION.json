@@ -1,0 +1,33 @@
+{
+  "version": "2.1r3",
+  "checkpoints": [
+    {
+      "path": "training/release.pt",
+      "metadata_paths_normalized": false,
+      "tensors_optimizer_rng_unchanged": true,
+      "sha256": "60386c9c2c118d019eb96b5322b183d776b480799367685fca75e09aa401037d"
+    },
+    {
+      "path": "experiments/r2-release/baseline.pt",
+      "metadata_paths_normalized": false,
+      "tensors_optimizer_rng_unchanged": true,
+      "sha256": "ed7fbd356c0c5a4c08fd300c049605dc3d88414783d7ff291393626b1aa85367"
+    },
+    {
+      "path": "experiments/v2-release/baseline.pt",
+      "metadata_paths_normalized": true,
+      "tensors_optimizer_rng_unchanged": true,
+      "sha256": "fb2218429fdd112a47b2da5607d18aa12ac83e9ce9f1f12bd40f70745e9d814b"
+    }
+  ],
+  "validation": {
+    "files": 208,
+    "relative_markdown_links": 39,
+    "unit_tests": 18,
+    "windows_questions": 1200,
+    "unicode_console_passed": true,
+    "local_path_scan_passed": true,
+    "data_hashes_verified": 37,
+    "weights_sha256": "222913b9b6f44642211c694ed188f988bfa7f106198889c55932b06abb808b55"
+  }
+}

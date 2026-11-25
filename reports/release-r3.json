@@ -1,0 +1,12 @@
+{
+  "version": "2.1r3",
+  "facts": 1000,
+  "source_date": "2026-11-24",
+  "weights_sha256": "222913b9b6f44642211c694ed188f988bfa7f106198889c55932b06abb808b55",
+  "dos_questions": 14,
+  "python_control": 1200,
+  "native_control": 1200,
+  "all_unseen_wordings": 1000,
+  "checkpoint_step": 500,
+  "additional_training_steps": 9500
+}

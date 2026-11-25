@@ -1,0 +1,3 @@
+clang version 19.1.7 (https://github.com/ziglang/zig-bootstrap de1b01a8c1dddf75a560123ac1c2ab182b4830da)
+-rwxrwxrwx 1 lazar lazar 381808 Nov 24 23:27 windows/TINY.BIN
+-rwxrwxrwx 1 lazar lazar 189440 Nov 24 23:27 windows/TINYWIN.EXE

@@ -1,0 +1,17 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT ?item ?itemLabel ?birth ?death ?place ?placeLabel WHERE {
+ VALUES ?occupation { wd:Q49757 wd:Q4964182 wd:Q36834 wd:Q483501 wd:Q901 wd:Q170790 }
+ ?item wdt:P31 wd:Q5; wdt:P106 ?occupation; wdt:P27 ?country.
+ VALUES ?country { wd:Q159 wd:Q15180 wd:Q34266 }
+ ?item wdt:P569 ?birth; wdt:P19 ?place; wikibase:sitelinks ?links.
+ ?place wdt:P17 wd:Q159.
+ FILTER(?links >= 25)
+ OPTIONAL { ?item wdt:P570 ?death. }
+ OPTIONAL { ?item wdt:P19 ?place. }
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+ } ORDER BY DESC(?links) ?item LIMIT 800

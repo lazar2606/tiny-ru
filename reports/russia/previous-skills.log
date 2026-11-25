@@ -1,0 +1,32 @@
+{
+  "metrics": {
+    "familiar": {
+      "correct": 40,
+      "total": 40,
+      "accuracy": 1.0
+    },
+    "paraphrase": {
+      "correct": 7,
+      "total": 40,
+      "accuracy": 0.175
+    },
+    "арифметика": {
+      "correct": 11,
+      "total": 30,
+      "accuracy": 0.36666666666666664
+    },
+    "неизвестное": {
+      "correct": 9,
+      "total": 15,
+      "accuracy": 0.6
+    },
+    "special_letters": {
+      "correct": 15,
+      "total": 15,
+      "accuracy": 1.0
+    }
+  },
+  "total": 140,
+  "invalid_tokens": 0,
+  "unterminated": 0
+}

@@ -1,0 +1,10 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT ?item ?itemLabel ?value ?valueLabel WHERE {
+ wd:Q159 wdt:P150 ?item. ?item wdt:P36 ?value.
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+ } ORDER BY ?item
